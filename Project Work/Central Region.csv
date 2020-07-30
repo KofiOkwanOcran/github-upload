@@ -1,0 +1,300 @@
+Region,District,FacilityName,Type,Town,Ownership,Latitude,Longitude
+Central,Abura-Asebu-Kwamankese,Abura Dunkwa RCH,RCH,Abura Dunkwa,Government,5.34485,-1.17108
+Central,Ajumako-Enyan-Essiam,Baa Salvation Army Clinic,Clinic,Ajumako Ba,Government,5.47564,-0.9336
+Central,Ajumako-Enyan-Essiam,Ekukrom CHPS,Clinic,Ekukrom,Government,5.4114,-1.05676
+Central,Ajumako-Enyan-Essiam,Nkodwo Nkojo CHPS,CHPS,Nkodwo,Government,5.3557,-0.97178
+Central,Asikuma-Odoben-Brakwa,Our Lady of Grace,Hospital,Breman Asikuma,CHAG,5.58063,-0.99655
+Central,Asikuma-Odoben-Brakwa,Odoben Health Centre,Health Centre,Odoben,Government,5.63314,-0.88531
+Central,Assin North Municipal,Akoti Health Centre,Health Centre,Assin Akropong,Government,5.77371,-1.24504
+Central,Assin North Municipal,Cecilia & Sammy Maternity Home,Maternity Home,Foso,Private,5.694,-1.2738
+Central,Assin South,Jakai Health Centre,Health Centre,Jakai,Government,5.40352,-1.20084
+Central,Awutu Senya,St. Jude Clinic,Clinic,Kasoa,Private,5.51756,-0.41646
+Central,Awutu Senya,Holy Family Maternity Home,Maternity Home,Kasoa,Private,5.52543,-0.42337
+Central,Awutu Senya,Connie's Maternity Home,Maternity Home,Kasoa,Private,5.53093,-0.42262
+Central,Awutu Senya,Justab Clinic,Clinic,Kasoa,Private,5.53349,-0.42904
+Central,Awutu Senya,Margo Maternity Home,Maternity Home,Kasoa,Private,5.52294,-0.48043
+Central,Awutu Senya,St. Joe's Clinic,Clinic,Kasoa,Private,5.5621,-0.44023
+Central,Cape Coast Metropolitan,Mercy Wriketts Memorial Clinic,Clinic,Aboom,Private,5.11197,-1.24952
+Central,Cape Coast Metropolitan,Christian Eye Centre,Clinic,North OLA,CHAG,5.1165,-1.27067
+Central,Cape Coast Metropolitan,Stovie Medical Centre,Clinic,North OLA,Private,5.11523,-1.27483
+Central,Cape Coast Metropolitan,Mrboh Clinic,Clinic,Municipal Road,Private,5.11022,-1.24777
+Central,Mfantseman,Dominase Health Centre,Health Centre,Abeadze Dominase,Government,5.35117,-1.09433
+Central,Mfantseman,Anomabo Health Centre,Health Centre,Anomabo,Government,5.17713,-1.12847
+Central,Mfantseman,Biriwa Community Clinic,Clinic,Biriwa,Government,5.16601,-1.14999
+Central,Mfantseman,Essuehyia Health Centre,Health Centre,Essuehyia,Government,5.3059,-0.88998
+Central,Mfantseman,Nanabeng CHPS,CHPS,Nanabeng,Government,5.24604,-0.94823
+Central,Mfantseman,Otuam Health Centre,Health Centre,Otuam,Government,5.21913,-0.81071
+Central,Mfantseman,St. Jude Blessing Clinic,Clinic,Yamoransa,Private,5.16601,-1.19926
+Central,Mfantseman,Fynba Clinic/Hospital,Clinic,Mankessim,Private,5.2624,-1.02119
+Central,Mfantseman,Earthly Peace Clinic,Clinic,Mankessim,Private,5.27177,-1.01674
+Central,Mfantseman,Prince Charles Clinic,Clinic,Mankessim,Private,5.27436,-1.01561
+Central,Mfantseman,St. Anthony Maternity Home,Maternity Home,Mankessim,Private,5.26938,-1.01679
+Central,Mfantseman,Saltpond Government Hospital,District Hospital,Saltpond,Government,5.2045,-1.05614
+Central,Mfantseman,Mankessim RCH/FP,Clinic,Mankessim,Government,5.27302,-1.03214
+Central,Mfantseman,Mfantseman District Health Directorate,District Health Directorate,Saltpond,Government,5.20422,-1.05516
+Central,Mfantseman,Gods Gift Maternity Home,Maternity Home,,Private,5.20422,-1.05516
+Central,Mfantseman,Mercy Maternity & Fistula Women Centre,Hospital,,Private,5.20422,-1.05516
+Central,Mfantseman,Bethel Heamopatic CHPS,CHPS,,Government,5.20422,-1.05516
+Central,Mfantseman,Ebuakwa Community Clinic,Clinic,Ebuakwa,Government,5.20422,-1.05516
+Central,Mfantseman,Immuna Clinic,Clinic,,Private,5.20422,-1.05516
+Central,Mfantseman,Kormantse Clinic,Clinic,Kormantse,Government,5.20422,-1.05516
+Central,Mfantseman,Srafa Kokodo Clinic,Clinic,,Private,5.20422,-1.05516
+Central,Mfantseman,Edumafa CHPS,CHPS,Edumafa,Government,5.20422,-1.05516
+Central,Mfantseman,Ekrawfol CHPS,CHPS,Ekrawfol,Government,5.20422,-1.05516
+Central,Mfantseman,Ekumpoano CHPS,CHPS,Ekumpoano,Government,5.20422,-1.05516
+Central,Mfantseman,Eyisam CHPS,CHPS,Eyisam,Government,5.20422,-1.05516
+Central,Mfantseman,Narkwa CHPS,CHPS,Narkwa,Government,5.20422,-1.05516
+Central,Mfantseman,Nsanfo CHPS,CHPS,Nsanfo,Government,5.20422,-1.05516
+Central,Mfantseman,Taido CHPS,CHPS,Taido,Government,5.20422,-1.05516
+Central,Twifu-Hemang-Lower Denkyira,Twifo Hemang Health Centre,Health Centre,Hemang,Government,5.49061,-1.53278
+Central,Twifu-Hemang-Lower Denkyira,Shed CHPS,CHPS,Shed,Government,5.42343,-1.5393
+Central,Twifu-Hemang-Lower Denkyira,Jukwa Health Centre,Health Centre,Jukwa,Government,5.25963,-1.33296
+Central,Twifu-Hemang-Lower Denkyira,Frami Community Clinic,Clinic,Frami,Government,5.30889,-1.3712
+Central,Twifu-Hemang-Lower Denkyira,Twifu-Hemang-Lower Denkyira District Health Directorate,District Health Directorate,Twifu Praso,Government,5.6092,-1.54724
+Central,Twifu-Hemang-Lower Denkyira,Praso Hospital,District Hospital,Twifu Praso,Government,5.61089,-1.54928
+Central,Twifu-Hemang-Lower Denkyira,Wamaso CHPS,CHPS,Twifo Wamase,Government,5.69832,-1.64432
+Central,Twifu-Hemang-Lower Denkyira,Mokwa Health Centre,Health Centre,Twifo,Government,5.70259,-1.60488
+Central,Twifu-Hemang-Lower Denkyira,St. Florence Maternity Home,Maternity Home,Bempongagye,Private,5.67184,-1.54191
+Central,Twifu-Hemang-Lower Denkyira,Twifo Praso Health Assistants Training School,Training Institution,Twifo Praso,Government,5.67184,-1.54191
+Central,Twifu-Hemang-Lower Denkyira,Topp Clinic,Clinic,Twifu Praso,Private,5.54685,-1.54687
+Central,Twifu-Hemang-Lower Denkyira,Pentecost Community Clinic,Clinic,TwifuMokwa,CHAG,5.7457,-1.60402
+Central,Twifu-Hemang-Lower Denkyira,Adade Kofi CHPS,CHPS,Adade Kof,Government,5.7457,-1.60402
+Central,Twifu-Hemang-Lower Denkyira,Kayeriku CHPS,CHPS,Kayeriku,Government,5.7457,-1.60402
+Central,Twifu-Hemang-Lower Denkyira,Kotokye CHPS,CHPS,Kotokye,Government,5.7457,-1.60402
+Central,Twifu-Hemang-Lower Denkyira,Nuamakrom CHPS,CHPS,Nuamakrom,Government,5.7457,-1.60402
+Central,Upper Denkyira East,Dunkwa Hospital,District Hospital,Dunkwa-On-Offin,Government,5.96243,-1.77927
+Central,Upper Denkyira East,St. Mark Hospital,Hospital,Atechem,Private,5.96779,-1.79029
+Central,Upper Denkyira East,Cecilia Maternity Clinic,Maternity Home,Dunkwa,Government,5.96162,-1.78057
+Central,Upper Denkyira East,Upper Denkyira East District Health Directorate,District Health Directorate,Dunkwa,Government,5.9649,-1.779
+Central,Upper Denkyira East,Kyekyewere Health Centre,Health Centre,Kyekyewere,Government,5.91653,-1.67979
+Central,Upper Denkyira East,Oponso Health Centre,Health Centre,Opponso,Government,5.76519,-1.79897
+Central,Upper Denkyira East,Dunkwa Health Assistants Training School,Training Institution,Dunkwa,Government,5.76519,-1.79897
+Central,Upper Denkyira East,Buabin CHPS,CHPS,Buaben,Government,5.88297,-1.75841
+Central,Upper Denkyira East,Imbraim CHPS,CHPS,Mbraem,Government,5.81374,-1.77019
+Central,Upper Denkyira East,Dunkwa RCH,RCH,Dunkwa,Government,5.81374,-1.77019
+Central,Upper Denkyira East,Sunkwa Clinic,Clinic,,Private,5.81374,-1.77019
+Central,Upper Denkyira East,Zion Clinic,Clinic,,Private,5.81374,-1.77019
+Central,Upper Denkyira East,Agyempomah CHPS,CHPS,Agyempoma,Government,5.81374,-1.77019
+Central,Upper Denkyira East,Asikumah CHPS,CHPS,Asikumah,Government,5.81374,-1.77019
+Central,Upper Denkyira East,Asmah Camp CHPS,CHPS,Asmah Camp,Government,5.81374,-1.77019
+Central,Upper Denkyira West,Ntom CHPS,CHPS,Ntom,Government,6.20034,-2.11999
+Central,Upper Denkyira West,S.D.A. Clinic,Clinic,Dominasi,CHAG,6.04646,-1.96497
+Central,Upper Denkyira West,Pentecost Health Centre,Health Centre,Ayanfuri,Private,5.95786,-1.89896
+Central,Upper Denkyira West,St. John Clinic,Polyclinic,Nkotomso,Private,6.00194,-1.92338
+Central,Upper Denkyira West,Diaso Health Centre,Health Centre,Diaso,Government,6.1527,-2.15153
+Central,Upper Denkyira West,Subin Health Centre,Health Centre,Subin,Government,6.20041,-1.04273
+Central,Upper Denkyira West,Nkwatanan CHPS,CHPS,Nkwatanan,Government,6.20041,-1.04273
+Central,Upper Denkyira West,St. Andrews Anglican Clinic,Clinic,Dominase,Private,6.05035,-1.95838
+Central,Upper Denkyira West,Amoaman CHPS,CHPS,Amoaman,Government,6.05035,-1.95838
+Central,Upper Denkyira West,Anhwiawia CHPS,CHPS,Anhwiawia,Government,6.05035,-1.95838
+Central,Upper Denkyira West,Denkyira Obuasi CHPS,CHPS,Denkyira Obuasi,Government,6.05035,-1.95838
+Central,Upper Denkyira West,Treposo CHPS,CHPS,Treposo,Government,6.05035,-1.95838
+Central,Abura-Asebu-Kwamankese,Abakrampa Health Centre,Health Centre,Abakrampa,Government,5.24361,-1.23408
+Central,Abura-Asebu-Kwamankese,Nkwantanan CHPS,CHPS,Nkwantanan,Government,5.28076,-1.28954
+Central,Abura-Asebu-Kwamankese,Abura-Asebu-Kwamankese District Health Directorate,District Health Directorate,Abura Dunkwa,Government,5.3281,-1.1717
+Central,Abura-Asebu-Kwamankese,Obohen CHPS,CHPS,Obohen,Government,5.30269,-1.13868
+Central,Abura-Asebu-Kwamankese,Kwamankese CHPS,CHPS,Kwamankese,Government,5.29021,-1.09563
+Central,Abura-Asebu-Kwamankese,Abura Dunkwa Hospital,District Hospital,Abura Dunkwa,Government,5.34485,-1.17108
+Central,Abura-Asebu-Kwamankese,Gyabankrom CHPS,CHPS,Abura Gyabankrom,Government,5.2788,-1.11699
+Central,Abura-Asebu-Kwamankese,Ayeldu CHPS,CHPS,Ayeldu,Government,5.33784,-1.12736
+Central,Abura-Asebu-Kwamankese,Asomdwee CHPS,CHPS,Asomdwee,Government,5.33715,-1.28221
+Central,Abura-Asebu-Kwamankese,Asuansi Rural Clinic,Clinic,Bronyi Krom,Government,5.30528,-1.25554
+Central,Abura-Asebu-Kwamankese,Asomdwee Clinic,Clinic,Nyamedom,Private,5.33715,-1.28221
+Central,Abura-Asebu-Kwamankese,Moree Health Centre,Health Centre,Moree,Government,5.13668,-1.19932
+Central,Abura-Asebu-Kwamankese,Putubiw CHPS,CHPS,Putubiw,Government,5.20157,-1.26566
+Central,Abura-Asebu-Kwamankese,Amosima CHPS,CHPS,Aosima,Government,5.20157,-1.26566
+Central,Abura-Asebu-Kwamankese,Asebu CHPS,CHPS,Asebu,Government,5.20157,-1.26566
+Central,Abura-Asebu-Kwamankese,Asuansi CHPS,CHPS,Asuansi,Government,5.20157,-1.26566
+Central,Abura-Asebu-Kwamankese,Nyanfeku CHPS,CHPS,Nyanfeku,Government,5.20157,-1.26566
+Central,Agona East,Asafo Health Centre,Health Centre,Agona Asafo,Government,5.5525,-0.66225
+Central,Agona East,Kwanyako Health Centre,Health Centre,Kwanyako,Government,5.59022,-0.6374
+Central,Agona East,Salvation Army Clinic,Clinic,Duakwa,CHAG,5.63113,-0.72601
+Central,Agona East,Mankrong Health Centre,Health Centre,Mankrong,Government,5.67169,-0.62054
+Central,Agona East,Agona Nsaba Health Centre,Health Centre,Agona Nsaba,Government,5.65241,-0.75572
+Central,Agona East,El-Shaddai Maternity Home,Maternity Home,,Government,5.65241,-0.75572
+Central,Agona East,Jonof Maternity Home,Maternity Home,,Government,5.65241,-0.75572
+Central,Agona East,Agona District Health Directorate,District Health Directorate,,Government,5.65241,-0.75572
+Central,Agona East,Mensakrom Clinic,Clinic,Mensakrom,Government,5.65241,-0.75572
+Central,Agona East,Kenyako CHPS,CHPS,Kenyako,Government,5.65241,-0.75572
+Central,Agona East,Ofoase CHPS,CHPS,Ofoase,Government,5.65241,-0.75572
+Central,Agona East,Otwekwa CHPS,CHPS,Otwekwa,Government,5.65241,-0.75572
+Central,Agona East,Tawora CHPS,CHPS,Tawora,Government,5.65241,-0.75572
+Central,Agona West Municipal,Nkum Health Centre,Health Centre,Nkum,Government,5.6306,-0.83284
+Central,Agona West Municipal,Bobikuma Health Centre,Health Centre,Upper Bobikuma,Government,5.55017,-0.85691
+Central,Agona West Municipal,Nyakrom Health Centre,Health Centre,Agona Nyakrom,Government,5.60867,-0.79676
+Central,Agona West Municipal,Agona Swedru Govermnt Hospital,District Hospital,Swedru,Government,5.53532,-0.6926
+Central,Agona West Municipal,Baiden Memoral Clinic,Clinic,Tsimtsimhe,Private,5.52597,-0.70704
+Central,Agona West Municipal,Abodom Health Centre,Health Centre,Agona Abodom,Government,5.53296,-0.82329
+Central,Agona West Municipal,Ahmadiyya Muslim Hospital.,Hospital,Swedru,CHAG,5.53852,-0.69956
+Central,Agona West Municipal,Glaco Maternity Home,Maternity Home,Desuanim,Private,5.53114,-0.69791
+Central,Agona West Municipal,Agona Municipal Health Directorate,Municipal  Health Directorate,Swedru,Government,5.52313,-0.70139
+Central,Agona West Municipal,Abigyakwa CHPS,CHPS,Abigyakwa,Government,5.52313,-0.70139
+Central,Agona West Municipal,Dergewa Maternity Home,Maternity Home,,Government,5.52313,-0.70139
+Central,Agona West Municipal,Swedru RCH,RCH,Swedru,Government,5.52313,-0.70139
+Central,Agona West Municipal,Swedru STI Clinic,Clinic,Swedru,Government,5.52313,-0.70139
+Central,Agona West Municipal,Nsuasa CHPS,CHPS,Nuasa,Government,5.52313,-0.70139
+Central,Agona West Municipal,Nyamendam CHPS,CHPS,Nyamendam,Government,5.52313,-0.70139
+Central,Agona West Municipal,Otsenkorang CHPS,CHPS,Otsenkorang,Government,5.71952,-0.82965
+Central,Ajumako-Enyan-Essiam,Ajumako Hospital,District Hospital,Ajumako,Government,5.4237,-0.95484
+Central,Ajumako-Enyan-Essiam,Ann's Maternity Home,Maternity Home,Ajumako Entumbil,Private,5.48024,-0.93238
+Central,Ajumako-Enyan-Essiam,Ajumako-Enyan-Essiam District Health Directorate,District Health Directorate,Ajumako,Government,5.42363,-0.95545
+Central,Ajumako-Enyan-Essiam,Bisease Health Centre,Health Centre,Ajumako Bisease,Government,5.46482,-0.98895
+Central,Ajumako-Enyan-Essiam,Enyan Abaasa Health Centre,Health Centre,Enyan Abaasa,Government,5.35401,-0.95244
+Central,Ajumako-Enyan-Essiam,Kwanyako Community Clinic,Clinic,Kwanyako,Government,5.45035,-0.87345
+Central,Ajumako-Enyan-Essiam,Sunkwa Community Clinic,Clinic,Etsi Sonkwaa,Government,5.35854,-1.05088
+Central,Ajumako-Enyan-Essiam,Zion Clinic,Clinic,Zion Denkyira,Private,5.39407,-0.98212
+Central,Ajumako-Enyan-Essiam,Enyan-Maim Community Clinic,Clinic,Enyan Maim,Government,5.31384,-1.01756
+Central,Ajumako-Enyan-Essiam,Nkwantanum Health Centre,Health Centre,Nkwantanum,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Abaasa Health Centre,Health Centre,Abaasa,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Ajumako RCH,RCH,Abaasa,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Ahomakormbua CHPS,CHPS,Ahomakormbua,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Ayinasu CHPS,CHPS,Ayinasu,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Ekwamase CHPS,CHPS,Ekwamase,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Kromaim CHPS,CHPS,Kromaim,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Mando CHPS,CHPS,Mando,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Obontsir CHPS,CHPS,Obontsir,Government,5.41199,-0.97646
+Central,Ajumako-Enyan-Essiam,Yeboah CHPS,CHPS,Yeboah,Government,5.41199,-0.97646
+Central,Asikuma-Odoben-Brakwa,Anhwiam CHPS,CHPS,Anhwiam,Government,5.64501,-1.14176
+Central,Asikuma-Odoben-Brakwa,Asikuma RCH,RCH,Asikuma,Government,5.5903,-0.99457
+Central,Asikuma-Odoben-Brakwa,Bedum CHPS,Clinic,Bedum,Government,5.52583,-1.00691
+Central,Asikuma-Odoben-Brakwa,Asikuma-Odoben-Brakwa District Health Directorate,District Health Directorate,Asikuma,Government,5.57791,-1.00412
+Central,Asikuma-Odoben-Brakwa,Brakwa Health Centre,Health Centre,Breman Brakwa,Government,5.69912,-0.98457
+Central,Asikuma-Odoben-Brakwa,Amanfopong CHPS,Clinic,Breman Amanfopong,Government,5.73664,-1.0124
+Central,Asikuma-Odoben-Brakwa,Ocran Maternity Home,Maternity Home,,Government,5.73664,-1.0124
+Central,Asikuma-Odoben-Brakwa,Ayipey CHPS,CHPS,Ayipey,Government,5.73664,-1.0124
+Central,Asikuma-Odoben-Brakwa,Jamra CHPS,CHPS,Jamra,Government,5.73664,-1.0124
+Central,Asikuma-Odoben-Brakwa,Nankese CHPS,CHPS,Nankese,Government,5.73664,-1.0124
+Central,Asikuma-Odoben-Brakwa,Sowotuom CHPS,CHPS,Sowotuom,Government,5.73664,-1.0124
+Central,Assin North Municipal,Bereku Health Centre,Health Centre,Assin Bereku,Government,5.86629,-1.33988
+Central,Assin North Municipal,Kushea Health Centre,Health Centre,Kushea,Government,5.87468,-1.44857
+Central,Assin North Municipal,Rex Maternity Home,Maternity Home,Praso,Private,5.92693,-1.35901
+Central,Assin North Municipal,Ebenezer Clinic & Matenity Home .,Maternity Home,Foso Station,CHAG,5.69698,-1.27703
+Central,Assin North Municipal,St. Francis Xavier Hospital,District Hospital,Foso,CHAG,5.6996,-1.28136
+Central,Assin North Municipal,Bediadua Health Centre,Health Centre,Bediadua,Government,5.77557,-1.49475
+Central,Assin North Municipal,Assin North District Health Directorate,District Health Directorate,Assin Praso,Government,5.69988,-1.27863
+Central,Assin North Municipal,Assin Praso Health Centre,Health Centre,Assin Praso,CHAG,5.92382,-1.35979
+Central,Assin North Municipal,Akropong Odumase CHPS,CHPS,Akropong Odumasi,Government,5.92382,-1.35979
+Central,Assin North Municipal,Awisem CHPS,CHPS,Awisem,Government,5.92382,-1.35979
+Central,Assin North Municipal,Endwa CHPS,CHPS,Endwa,Government,5.92382,-1.35979
+Central,Assin South,Assin Manso Health Centre,Health Centre,Manso,Government,5.52409,-1.16766
+Central,Assin South,Ongwa Health Centre,Health Centre,Assin Ongwa,Government,5.68002,-1.39811
+Central,Assin South,Assin South District Health Directorate,District Health Directorate,Kyekyewere,Government,5.46162,-1.23531
+Central,Assin South,Nyankumasi Ahenkro Health Centre,Maternity Home,Nyaokumasi Ahenkro,Government,5.38334,-1.14932
+Central,Assin South,Nsuta Presby Clinic,Clinic,Nsuta,CHAG,5.62802,-1.23251
+Central,Assin South,Anyinabrim Health Centre,Health Centre,Anyinabrim,Private,5.60888,-1.23531
+Central,Assin South,Aboabo CHPS,CHPS,Aboabo,Government,5.60888,-1.23531
+Central,Assin South,Amoabeng CHPS,CHPS,Amoabeng,Government,5.60888,-1.23531
+Central,Assin South,Ochiso CHPS,CHPS,Ochiso,Government,5.60888,-1.23531
+Central,Awutu Senya,Fausty's Maternity Home,Maternity Home,Bawjiase,Private,5.67413,-0.55933
+Central,Awutu Senya,Bontrase Health Centre,Health Centre,Bontrase,Government,5.60814,-0.55929
+Central,Awutu Senya,Awutu Health Centre,Health Centre,Awutu Bereku,Government,5.51293,-0.51456
+Central,Awutu Senya,Humble Home Clinic,Clinic,Awutu-Bereku,Private,5.51331,-0.5118
+Central,Awutu Senya,Bawjiase Health Centre,Health Centre,Bawjiase,Government,5.68429,-0.55172
+Central,Awutu Senya,Kasoa Health Centre,Health Centre,Kasoa,Government,5.53382,-0.42641
+Central,Awutu Senya,Central Kasoa Clinic,Clinic,Kasoa,Private,5.54114,-0.42817
+Central,Awutu Senya,Senya Bereku Health Centre,Health Centre,Senya Bereku,Government,5.39045,-0.49727
+Central,Awutu Senya,Chirsty's Maternity Home,Maternity Home,Senya Bereku,Private,5.30355,-0.31051
+Central,Awutu Senya,Marfred Maternity Home,Maternity Home,,Government,5.30355,-0.31051
+Central,Awutu Senya,Mighty Crag Marternity Home,Maternity Home,,Government,5.30355,-0.31051
+Central,Awutu Senya,Wesely Maternity Home,Maternity Home,Kasoa,Government,5.32045,-0.2626
+Central,Awutu Senya,Thinking Clinic,Clinic,Senya Bereku,Government,5.30437,-0.30544
+Central,Awutu Senya,Adawukwa CHPS,CHPS,Adawukwa,Government,5.30437,-0.30544
+Central,Awutu Senya,Ahentia CHPS,CHPS,Ahentia,Government,5.33206,-0.31457
+Central,Awutu Senya,Akrabon CHPS,CHPS,Akrabon,Government,5.61691,-0.56952
+Central,Awutu Senya,Mayenda CHPS,CHPS,Mayenda,Government,5.61691,-0.56952
+Central,Awutu Senya,Ofaakor CHPS,CHPS,Ofaakor,Government,5.61691,-0.56952
+Central,Awutu Senya,Ofadaa CHPS,CHPS,Ofadaa,Government,5.61691,-0.56952
+Central,Awutu Senya,Okwampa CHPS,CHPS,Okwampa,Government,5.61691,-0.56952
+Central,Awutu Senya,Opeikuma CHPS,CHPS,Opeikuma,Government,5.61691,-0.56952
+Central,Awutu Senya,Papaase CHPS,CHPS,Papaase,Government,5.61691,-0.56952
+Central,Awutu Senya,Tawiakwa CHPS,CHPS,Tawiakwa,Government,5.61691,-0.56952
+Central,Cape Coast Metropolitan,PPAG Youth Friendly,Clinic,Adiebikrom-Abura,Private,5.13586,-1.27695
+Central,Cape Coast Metropolitan,Police Clinic,Clinic,Pedu Junction,Quasi-Government,5.12181,-1.27063
+Central,Cape Coast Metropolitan,Central Regional Hospital,Regional Hospital,Abura,Government,5.1332,-1.26603
+Central,Cape Coast Metropolitan,Baiden Ghartey Memorial Hospital,Hospital,Pedu,Private,5.12535,-1.27525
+Central,Cape Coast Metropolitan,St. John's Clinic/Maternity Home,Clinic,Abura,Private,5.18089,-1.28102
+Central,Cape Coast Metropolitan,Anaisiwa Memorial Clinic,Clinic,Aboom,CHAG,5.11036,-1.25054
+Central,Cape Coast Metropolitan,Bishop Ackon Memorial Christian Eye Centre,Clinic,Adisadel,CHAG,5.1165,-1.27067
+Central,Cape Coast Metropolitan,Abura Clinic,Clinic,Abura,Private,5.13131,-1.33529
+Central,Cape Coast Metropolitan,Adisadel Urban Health Centre,Health Centre,Adisadel,Government,5.11936,-1.26784
+Central,Cape Coast Metropolitan,U.C.C Hospital,Hospital,Cape Coast,Government,5.10537,-1.28298
+Central,Cape Coast Metropolitan,Regional Health Directorate,Regional Health Directorate,Cape Coast,Government,5.10162,-1.2709
+Central,Cape Coast Metropolitan,Cape Coast Metropolitan Hospital,Metropolitan Hospital,Bakano,Government,5.10247,-1.25902
+Central,Cape Coast Metropolitan,Cape Coast Nurses & Midwife Training School,Training Institution,Ola,Government,5.10248,-1.25688
+Central,Cape Coast Metropolitan,Efutu Rural Clinic,Clinic,Efutu,Government,5.21052,-1.32217
+Central,Cape Coast Metropolitan,Ekon CHPS,CHPS,Ekon,Government,5.12117,-1.2709
+Central,Cape Coast Metropolitan,Tantri Clinic,Clinic,Tantri,Private,5.1128,-1.24091
+Central,Cape Coast Metropolitan,The Saint Maternity Home,Maternity Home,Borofoyedur,Private,5.11088,-1.23425
+Central,Cape Coast Metropolitan,Ewim Urban Health Centre,Health Centre,Ewim,Government,5.11533,-1.24487
+Central,Cape Coast Metropolitan,Cape Coast RCH,RCH,Aboom,Government,5.10833,-1.24717
+Central,Cape Coast Metropolitan,Cape Coast Metropolitan Health Directorate,Metropolitan Health Directorate,Cape Coast,Government,5.10833,-1.24714
+Central,Cape Coast Metropolitan,Aged Clinic,Clinic,Cape Coast,Government,5.0633,-1.15526
+Central,Cape Coast Metropolitan,Micro Clinic,Clinic,Cape Coast,Government,5.06807,-1.14468
+Central,Cape Coast Metropolitan,Brimsu CHPS,CHPS,Brimsu,Government,5.11075,-1.18226
+Central,Cape Coast Metropolitan,Brofoyedu CHPS,CHPS,Brofoyedu,Government,5.06669,-1.14021
+Central,Cape Coast Metropolitan,Nkanfoa CHPS,CHPS,Nkanfoa,Government,5.08409,-1.14648
+Central,Efutu Municipal,Winneba RCH,RCH,Winneba,Government,5.33849,-0.62412
+Central,Efutu Municipal,Otoo Memorial Hospital,Clinic,Winneba,Private,5.35441,-0.62205
+Central,Efutu Municipal,Baptist Hospital,Hospital,Winneba,CHAG,5.35441,-0.62205
+Central,Efutu Municipal,Klimovic Memorial Hospital,Hospital,Winneba,Private,5.36621,-0.63719
+Central,Efutu Municipal,Winneba Government Hospital,District Hospital,Winneba,Government,5.34374,-0.6229
+Central,Efutu Municipal,Bethel Maternity Home,Maternity Home,Winneba,Private,5.34224,-0.62985
+Central,Efutu Municipal,Efutu District Health Directorate,District Health Directorate,Winneba,Government,5.33815,-0.62484
+Central,Efutu Municipal,Winneba Community Health Nurses Training School,Training Institution,Winneba,Government,5.37109,-0.64254
+Central,Efutu Municipal,Ansaful Health Centre,Health Centre,Ansaful,Government,5.37109,-0.64254
+Central,Efutu Municipal,Winniba Health Centre,Health Centre,Winneba,Government,5.20189,-0.3727
+Central,Efutu Municipal,Winniba Municipal Health Directorate,DHD,Winneba,Government,5.20174,-0.37295
+Central,Efutu Municipal,University Clinic,Clinic,Winneba,Quasi-Government,5.22095,-0.37478
+Central,Efutu Municipal,Gyangyanadze CHPS,CHPS,Gyangyanadze,Government,5.23474,-0.34361
+Central,Gomoa East,Buduatta Health Centre,Health Centre,Buduatta,Government,5.49698,-0.57723
+Central,Gomoa East,Nadom Maternity Home,Maternity Home,Nyanyano,Private,5.46673,-0.41123
+Central,Gomoa East,Nyanyano Clinic,Clinic,Nyanyano,Government,5.47036,-0.41798
+Central,Gomoa East,Obuasi Clinic,Clinic,Obuasi,Government,5.50399,-0.7547
+Central,Gomoa East,Buduburam Clinic,Clinic,Buduburam Camp,CHAG,5.523917,-0.475167
+Central,Gomoa East,Ojobi Community Clinic,Clinic,Ojobi,Government,5.48019,-0.53142
+Central,Gomoa East,Andrew Browning Clinic,Clinic,Fetteh,CHAG,5.43145,-0.47701
+Central,Gomoa East,Fetteh CHPS,CHPS,Fetteh,Government,5.42147,-0.46725
+Central,Gomoa East,Okyerko Clinic,Clinic,Okyerko,Government,5.41768,-0.6032
+Central,Gomoa East,Wansima Memorial CHPS,CHPS,Mankoadze,Government,5.31811,-0.68595
+Central,Gomoa East,Potsin Clinic,Clinic,Potsin,Government,5.45544,-0.59253
+Central,Gomoa East,St. Gregory Catholic Clinic,Clinic,Budumburam Camp,Private,5.52401,-0.47508
+Central,Gomoa East,Margo Maternity Home,Maternity Home,,Private,5.52401,-0.47508
+Central,Gomoa East,Abasa CHPS,CHPS,Abasa,Government,5.52401,-0.47508
+Central,Gomoa East,Dasum CHPS,CHPS,Dasum,Government,5.52401,-0.47508
+Central,Gomoa East,Ekwemkrom CHPS,CHPS,Ekwemkrom,Government,5.52401,-0.47508
+Central,Gomoa West,Godfry Memorial Clinic,Maternity Home,Ankamu,Private,5.33737,-0.76385
+Central,Gomoa West,Apam RCH,RCH,Apam,Government,5.28368,-0.73665
+Central,Gomoa West,Apam District Health Directorate,District Health Directorate,Apam,Government,5.31479,-0.74645
+Central,Gomoa West,Ngyiresi CHPS,CHPS,Ngyiresi,Government,5.35125,-0.84368
+Central,Gomoa West,Oguaa Health Centre,Health Centre,Ogua,Government,5.42001,-0.81471
+Central,Gomoa West,Noguchi Clinic,Clinic,Noguchi,Government,5.35998,-0.70778
+Central,Gomoa West,Apam Catholic Hospital,Hospital,Apam,CHAG,5.28142,-0.73909
+Central,Gomoa West,Mankoadze Clinic,Clinic,Mankoadze,Government,5.31811,-0.68595
+Central,Gomoa West,Dago Health Centre,Health Centre,Dago,Government,5.31811,-0.68595
+Central,Gomoa West,Osedze Health Centre,Health Centre,Osedze,Government,5.31811,-0.68595
+Central,Gomoa West,Assin CPHS,CHPS,Assin,Government,5.31811,-0.68595
+Central,Gomoa West,Brofo CHPS,CHPS,Brofo,Government,5.31811,-0.68595
+Central,Gomoa West,Eshiem CHPS,CHPS,Eshiem,Government,5.31811,-0.68595
+Central,Gomoa West,Fomena CHPS,CHPS,Fomena,Government,5.31811,-0.68595
+Central,Gomoa West,Sampa CHPS,CHPS,Sampa,Government,5.31811,-0.68595
+Central,Gomoa West,Tarkwa CHPS,CHPS,Tarkwa,Government,5.31811,-0.68595
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Abrem Agona Health Centre,Health Centre,Abrem Agona,Government,5.18951,-1.43017
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Atonkwa CHPS,CHPS,Atonkwa,Government,5.11335,-1.32509
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Ankaful Psychiatric Hospital,Psychiatric Hospital,Ankaful,Government,5.15531,-1.32331
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Ankaful Leprosy/General Hospital,Hospital,Ankaful,Government,5.1506,-1.31776
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Paa Wartemberg Memorial Maternity Home,Maternity Home,Chaple Square,Private,5.08477,-1.34962
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Komenda-Edina-Eguafo-Abirem District Health Directorate,District Health Directorate,Elmina,Government,5.09981,-1.34193
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Ankaful Nurses Training College,Training Institution,Ankaful,Government,5.10162,-1.2709
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Nyame Te Ase Maternity Home,Maternity Home,Low Cost,Private,5.05144,-1.49758
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Aburansa CHPS,CHPS,Aburansa,Government,5.0785,-1.54259
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Elmina Urban Health Centre,Health Centre,Elmina,Government,5.09873,-1.3483
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Kissi Health Centre,Health Centre,Kissi,Government,5.08749,-1.50592
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Ankaful RCH,RCH,Ankaful,Government,5.15115,-1.31842
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Benyadze CHPS,CHPS,Benyadze,Government,5.1171,-1.44572
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Antseamboa CHPS,CHPS,Antseamboa,Government,5.15486,-1.57947
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Komenda Health Centre,Health Centre,Komenda,Government,5.05282,-1.49313
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Good Sheperd Maternity Home,Maternity Home,,Private,5.05282,-1.49313
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Bando Han-Medical Centre,Clinic,,Private,5.05282,-1.49313
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Abeyee CHPS,CHPS,Abeyee,Government,5.05282,-1.49313
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Berase CHPS,CHPS,Berase,Government,5.05282,-1.49313
+Central,Komenda-Edina-Eguafo-Abirem Municipal,S.A.P CHPS,CHPS,,Government,5.05282,-1.49313

@@ -1,0 +1,659 @@
+Region,District,FacilityName,Type,Town,Ownership,Latitude,Longitude
+Ashanti,Offinso North,A.M.E Zion Clinic,Clinic,Afrancho,CHAG,7.40801,-1.96317
+Ashanti,Bekwai Municipal,Abenkyiman Clinic,Clinic,Anwiankwanta,Private,6.46312,-1.58592
+Ashanti,Adansi North,Aboabo Health Centre,Health Centre,Aboabo No 2,Government,6.22393,-1.34982
+Ashanti,Afigya-Kwabre,Aboabogya Health Centre,Health Centre,Aboabogya,Government,6.84177,-1.61098
+Ashanti,Kwabre,Aboaso Health Centre,Health Centre,Aboaso,Government,6.84177,-1.61098
+Ashanti,Offinso North,Aboffour Health Centre,Health Centre,Aboffour,Government,7.12986,-1.73294
+Ashanti,Atwima-Nwabiagya,Abuakwa Maternity Home,Maternity Home,Abuakwa,Private,7,-2
+Ashanti,Atwima-Kwanwoma,Aburaso Methodist clinic,Clinic,Aburaso,CHAG,6.66133,-1.67662
+Ashanti,Ejisu-Juaben Municipal,Achiase Health Centre,Health Centre,Achiase,Government,6.45543,-1.31004
+Ashanti,Mampong Municipal,Adidwan Health Centre,Health Centre,Adidwan,Government,7.25163,-1.40278
+Ashanti,Amansie West,Adimposo CHPS,CHPS,Adimposo,Government,6.33659,-1.92588
+Ashanti,Asante-Akim North Municipal,Adom Hospital,Hospital,Akratiebesa,Private,6.61879,-1.19202
+Ashanti,Ahafo-Ano South,Adom Maternity Home,Maternity Home,Adinyana,Private,6.88364,-1.87334
+Ashanti,Afigya-Kwabre,Adwumakase Kese Health Centre,Health Centre,Adwumakase Kese,Government,6.80813,-1.53933
+Ashanti,Sekyere South,Afamaso Maternity Home,Maternity Home,Afamaso,Private,6.94912,-1.50873
+Ashanti,Sekyere Central,Aframso Health Centre,Health Centre,Aframso No.3,Government,7.14472,-1.12162
+Ashanti,Afigya-Kwabre,Afrancho Health Centre,Health Centre,Afrancho,Government,6.81527,-1.59589
+Ashanti,Asante-Akim North Municipal,Agogo Presby Hospital,Hospital,Agogo,CHAG,6.79618,-1.08529
+Ashanti,Sekyere South,Agona Health Centre,Health Centre,Agona,Government,6.93605,-1.49759
+Ashanti,Ejisu-Juaben Municipal,Agyenkwa Clinic,Clinic,Hwireso,Private,6.67522,-1.38159
+Ashanti,Obuasi Municipal,Agyenkwa Clinic,Clinic,New  Estate-Obuasi,Private,6.20898,-1.67103
+Ashanti,Atwima-Kwanwoma,Ahenema kokoben Health Centre,Health Centre,Ahenema kokoben,Government,6.62597,-1.64978
+Ashanti,Afigya-Kwabre,Ahenkro Health Centre,Health Centre,Ahenkro,Government,6.87155,-1.64009
+Ashanti,Sekyere East,Ahmadiya Muslim Hospital,Hospital,Effiduase,Private,6.84534,-1.38366
+Ashanti,Bekwai Municipal,Ahmadiyaa Mission Hospital,Hospital,Kokofu,Private,6.50986,-1.53649
+Ashanti,Bekwai Municipal,Ahwene Memorial Hospital,Hospital,Bekwai,Private,6.45491,-1.57071
+Ashanti,Adansi South,Aim High Clinic,Clinic,Subin Camp,Private,5.96717,-1.44993
+Ashanti,Sekyere East,Akokuaso Health Centre,Health Centre,Akokuaso,Government,6.85355,-1.33583
+Ashanti,Bekwai Municipal,Akomaa Memorial Hospital,Hospital,Kortwia,CHAG,6.43966,-1.53837
+Ashanti,Offinso North,Akomadan Health Centre,Health Centre,Akomadan zongo,Government,7.40581,-1.96072
+Ashanti,Adansi North,Akrofrom Clinic,Clinic,New Akrofrom,Private,6.15348,-1.47621
+Ashanti,Amansie Central,Akrofrom Community Clinic,Clinic,Akrofrom,Government,6.39651,-1.60783
+Ashanti,Adansi South,Akrofrom Health Centre,Health Centre,Akrofrom,Government,6.12385,-1.65387
+Ashanti,Adansi North,Akrokerri Health Centre,Health Centre,Akrokerri,Government,6.29513,-1.63224
+Ashanti,Atwima-Nwabiagya,Akropong Health Centre,Health Centre,Akropong,Government,7,-2
+Ashanti,Atwima-Nwabiagya,Akropong Maternity Home,Maternity Home,Akropong,Private,7,-2
+Ashanti,Adansi South,Akutreso Health Centre,Health Centre,Akutreso,Government,6.09619,-1.29292
+Ashanti,Ahafo-Ano North,Akwasiase Dressing Station,Clinic,Akwasiase,Quasi-Government,6.99498,-2.19887
+Ashanti,Ahafo-Ano North,Alice Memorial Maternity Clinic,Maternity Home,Tepa,Private,6.99961,-2.17134
+Ashanti,Obuasi Municipal,All Souls Clinic,Clinic,Akaporiso,Private,6.19852,-1.62881
+Ashanti,Adansi South,Allen Health Clinic,Clinic,Wamasi,Government,6.08691,-1.69553
+Ashanti,Obuasi Municipal,Amansan Clinic,Clinic,Aboagye Krom,Private,6.19128,-1.65044
+Ashanti,Asante-Akim North Municipal,Amantenaman Health Centre,Health Centre,Nyinamponase,Government,6.77005,-1.16254
+Ashanti,Ejisu-Juaben Municipal,Amponsah Konadu Memorial Maternity Home,Maternity Home,Bonwire,Private,6.79262,-1.47187
+Ashanti,Adansi South,Ampunyasi Health Centre,Health Centre,Ampunyasi,Government,6.05519,-1.73677
+Ashanti,Ahafo-Ano North,Anane Aya Maternity Home,Maternity Home,Akwasiase,Private,6.99542,-2.19993
+Ashanti,Asante-Akim North Municipal,Ananekrom Health Centre,Health Centre,Ananekrom,Government,6.91527,-1.01533
+Ashanti,Bosomtwe,Anglican (Mobile) Eye Clinic,Clinic,Jachie,CHAG,6.56615,-1.52066
+Ashanti,Bosomtwe,Atonso/Agogo Fejiase clinic,Clinic,Feyiase,Private,6.61268,-1.55999
+Ashanti,Bosomtwe,Brodekwanu Methodis Clinic,Clinic,Brodekwanu,CHAG,6.53546,-1.35365
+Ashanti,Bosomtwe,CAMFAP Maternity Clinic,Clinic,New Kokobiriko (Abijan-Nkwant,Private,6.57933,-1.54404
+Ashanti,Bosomtwe,Jachie Health Centre,Health Centre,Jachie,Government,6.56598,-1.52097
+Ashanti,Bosomtwe,Kuntenase Government Hospital,District Hospital,Kuntenase,Government,6.53752,-1.47454
+Ashanti,Bosomtwe,Lake Bosomtwi Methodist Clinic,Clinic,Amakom,CHAG,6.48398,-1.37362
+Ashanti,Bosomtwe,Nyameani Methodist Clinic,Clinic,Nyameani,CHAG,6.56458,-1.43022
+Ashanti,Bosomtwe,Piase CHPS,CHPS,Piase,Government,6.59099,-1.45151
+Ashanti,Bosomtwe,SDA Clinic Konkoma,Clinic,Konkoma,CHAG,6.51291,-1.34849
+Ashanti,Bosomtwe,Sophia Maternity Home,Maternity Home,Esereso,Private,6.63159,-1.56147
+Ashanti,Bosomtwe,St. Marys Anglican Clinic,Clinic,Apinkra,CHAG,6.54056,-1.54346
+Ashanti,Bosomtwe,St. Micheal Hospital,Hospital,Pramso,CHAG,6.55872,-1.51247
+Ashanti,Bosomtwe,Tetrefu Health Centre,Health Centre,Tetrefu,Government,6.62487,-1.53468
+Ashanti,Bosomtwe,God's Grace Maternity Home,Maternity Home,Aputuagya,Private,6.5016785,-1.4144827
+Ashanti,Obuasi Municipal,Anyinam Clinic,Clinic,Obuasi-Anyinam,Government,6.19897,-1.68205
+Ashanti,Ahafo-Ano North,Anyinasuso Health Centre,Health Centre,Anyinasuso,Government,6.95913,-2.10037
+Ashanti,Ahafo-Ano North,Anyinasuso Maternity Home,Maternity Home,Anyinasuso,Private,6.95871,-2.10015
+Ashanti,Offinso North,Anyinasusu SDA Centre,Clinic,Anyinasusu,CHAG,7.01484,-1.70874
+Ashanti,Sekyere Afram Plains,Anyinofi Health Centre,Health Centre,Anyinofi,Government,7.42528,-0.77045
+Ashanti,Mampong Municipal,Apaa Maternity Home,Maternity Home,Apaa,Private,6.95511,-1.43465
+Ashanti,Ejisu-Juaben Municipal,Apromase Health Centre,Health Centre,Apromase,Government,6.67085,-1.49543
+Ashanti,Mampong Municipal,Asaam Health Clinic,Health Centre,Asaam,Government,7.11732,-1.46598
+Ashanti,Obuasi Municipal,Asempa   Maternity and Clinic,Clinic,Gausu,Private,6.19924,-1.68233
+Ashanti,Atwima-Kwanwoma,Ahenema kokoben Health Centre,Health Centre,Ahenema kokoben,Government,6.62597,-1.64978
+Ashanti,Atwima-Kwanwoma,Bebu Methodist Clinic,Clinic,Bebu,CHAG,6.61154,-1.68505
+Ashanti,Atwima-Kwanwoma,Eye Adom Maternity Home,Maternity Home,Brofoyeduru,Private,6.61458,-1.65857
+Ashanti,Atwima-Kwanwoma,Foase Health Centre,Health Centre,Foase,Government,6.63751,-1.75124
+Ashanti,Atwima-Kwanwoma,Kwanwoma Health Centre,Health Centre,Kwanwoma,Government,6.62865,-1.63524
+Ashanti,Atwima-Kwanwoma,Trabuom Health Centre,Health Centre,Trabuom,Government,6.61142,-1.76252
+Ashanti,Atwima-Kwanwoma,Trede Health Centre,Health Centre,Trede,Government,6.57803,-1.66859
+Ashanti,Atwima-Kwanwoma,Nweneso III Health Centre,Health Centre,Nweneso III,Private,6.5972124,-1.578999399
+Ashanti,Bosome Freho,Asiwa Health Centre,Health Centre,Asiwa,Government,6.42344,-1.33434
+Ashanti,Adansi North,Asokwa Health Centre,Health Centre,Asokwa,Government,6.28068,-1.50786
+Ashanti,Amansie West,Essuowin Health Centre,Health Centre,Assuowin,Government,6.53656,-1.86502
+Ashanti,Sekyere Central,Asubuasu Health Centre,Health Centre,Asubuasu,Government,7.31624,-1.23529
+Ashanti,Atwima-Nwabiagya,Asuofua Health Centre,Health Centre,Asuofia,Government,7,-2
+Ashanti,Adansi South,Ataasi Health Centre,Health Centre,Ataasi Nkwanta,Government,5.96664,-1.36454
+Ashanti,Sekyere Central,Atonsu Health Centre,Health Centre,Atonsu,Government,7.02372,-1.30912
+Ashanti,Adansi South,Atwereboana Clinic,Clinic,Atwereboana,Government,5.96235,-1.34213
+Ashanti,Atwima-Nwabiagya,Atwima Clinic,Clinic,Atwima,Government,7,-2
+Ashanti,Obuasi Municipal,Avril Clinic,Clinic,Akaporiso,Private,6.19802,-1.62953
+Ashanti,Ejura Sekyeredumasi,Babaso MCH,Clinic,Babaso,Government,7.34065,-1.32417
+Ashanti,Asante-Akim South,Banka Health Centre,Health Centre,Banka,Government,6.29824,-1.21615
+Ashanti,Sekyere Afram Plains,Banko Health Centre,Health Centre,Banko,Government,6.75822,-1.28473
+Ashanti,Asante-Akim South,Banso SDA Clinic,Clinic,Banso,Government,6.47584,-1.19674
+Ashanti,Atwima-Nwabiagya,Barekese Health Centre,Health Centre,Barekese,Government,7,-2
+Ashanti,Atwima-Mponua,Barniekrom maternity home,Maternity Home,Barniekrom,Government,6.54199,-2.17473
+Ashanti,Asante-Akim North Municipal,Bebome Health Centre,Health Centre,Bebome,Government,6.86725,-1.09566
+Ashanti,Atwima-Kwanwoma,Bebu Methodist Clinic,Clinic,Bebu,CHAG,6.61154,-1.68505
+Ashanti,Bekwai Municipal,Bekwai Government Hospital,District Hospital,Bekwai,Government,6.45605,-1.57857
+Ashanti,Mampong Municipal,Benim Health Centre,Health Centre,Benim,Government,7.09054,-1.46459
+Ashanti,Sekyere Central,Beposo Health Centre,Centre,Beposo,Government,6.98526,-1.35503
+Ashanti,Atwima-Mponua,Bethel Maternity Home,Maternity Home,Enyinamoso,Private,6.64692,-1.90327
+Ashanti,Ahafo-Ano North,Betiako Health Centre,Health Centre,Betiako,Government,6.86638,-2.20685
+Ashanti,Atwima-Mponua,Beyerebon No.5 Health Centre,Health Centre,Bayerebon,Government,6.39211,-2.18134
+Ashanti,Mampong Municipal,Birem Health Centre,Health Centre,Birem,Government,7.22732,-0.99197
+Ashanti,Afigya-Kwabre,Boamang Health Centre,Health Centre,Boamang,Government,6.94073,-1.61705
+Ashanti,Sekyere South,Boanim Health Centre,Health Centre,Boanim,Government,7.03482,-1.48741
+Ashanti,Adansi North,Bodwesango St Louis Health Centre,Health Centre,Bodwesango,CHAG,6.22249,-1.31031
+Ashanti,Ejisu-Juaben Municipal,Bomfa Health Centre,Health Centre,Bomfa,Government,6.59635,-1.29933
+Ashanti,Asante-Akim South,Bompata Health Centre,Health Centre,Bompata,Government,6.66727,-1.08393
+Ashanti,Offinso Municipal,Bonsua Health Centre,Health Centre,Bonsua,Government,6.93485,-1.67615
+Ashanti,Ejisu-Juaben Municipal,Bonwire Clinic,Clinic,Bonwire,Private,6.4716,-1.2846
+Ashanti,Obuasi Municipal,Brahabebome Clinic,Clinic,Brahabebome New Site,Private,6.19444,-1.63014
+Ashanti,Obuasi Municipal,Bryant  Mission Hospital,Hospital,Boete,Private,6.1131,-1.3844
+Ashanti,Obuasi Municipal,Cecilia Maternity  Home,Maternity Home,Kwabrafoso,Private,6.19886,-1.65574
+Ashanti,Obuasi Municipal,Central Market Clinic,Clinic,Estate Extension,Private,6.20591,-1.67031
+Ashanti,Kwabre,Christ Our Hope Maternity Home,Maternity Home,Ntonso,Private,6.75486,-1.52744
+Ashanti,Amansie West,Christ Our Saviour Clinic,Clinic,Manso Moseaso,CHAG,6.51142,-1.85217
+Ashanti,Ejisu-Juaben Municipal,Church of Christ Mission Clinic,Clinic,Adadientam,CHAG,6.71394,-1.42827
+Ashanti,Ejisu-Juaben Municipal,Church of God Clinic,Clinic,Essienimpong,CHAG,6.66053,-1.44979
+Ashanti,Atwima-Mponua,Community Health Centre,Clinic,Mpasatia,CHAG,6.66848,-1.84016
+Ashanti,Sekyere Central,Cross Medical Centre,Clinic,Nsuta,Private,7.00829,-1.37595
+Ashanti,Asante-Akim North Municipal,Daasebre Maternity Home,Maternity Home,Ahenebronuum,Private,6.62776,-1.21314
+Ashanti,Sekyere Afram Plains,Dadiase Health Centre,Health Centre,Dadiase,Government,6.88078,-1.36776
+Ashanti,Ejisu-Juaben Municipal,Dakopon Hospital,Hospital,Kwamo,Private,6.72086,-1.49322
+Ashanti,Amansie West,Datano Health Post,Clinic,Datano,CHAG,6.29398,-1.97098
+Ashanti,Bosome Freho,Detieso Community Clinic,Clinic,Detieso,Government,6.47674,-1.44168
+Ashanti,Sekyere South,Domeabra Health Centre,Health Centre,Domeabra,Government,6.93864,-1.55757
+Ashanti,Adansi North,Dompoase Benito Menni Health Centre,Health Centre,Dompoase,CHAG,6.32282,-1.54468
+Ashanti,Amansie West,Dora Maternity Clinic,Maternity Home,Pakyi  No 2,Private,6.4804,-1.4951
+Ashanti,Offinso North,Dorcas Memorial Clinic,Clinic,Akomadan,CHAG,7.39694,-1.95297
+Ashanti,Bosome Freho,Duasi Community Clinic,Clinic,Duasi,Government,6.46863,-1.39522
+Ashanti,Asante-Akim North Municipal,Dwease Health Centre,Health Centre,Dwease,Government,6.53747,-1.24407
+Ashanti,Asante-Akim South,Dwendwenase Health Centre,Health Centre,Dwendwenase,Government,6.41223,-1.19934
+Ashanti,Atwima-Mponua,Ebenezer Methodist Clinic,Clinic,Mpasatia,CHAG,6.65865,-1.84306
+Ashanti,Adansi South,Edwafo Health Centre,Health Centre,Edwafo,Government,6.19675,-1.57367
+Ashanti,Sekyere East,Effiduase District Hospital,District Hospital,Effiduase,Government,6.84739,-1.39373
+Ashanti,Sekyere East,Effiduase Trust Maternity Home,Maternity Home,Effiduase,Private,6.84821,-1.39412
+Ashanti,Ejisu-Juaben Municipal,Ejisu Health Centre,Health Centre,Ejisu,Government,6.72103,-1.47028
+Ashanti,Ejura Sekyeredumasi,Ejura District Hospital,District Hospital,Ejura,Government,7.38906,-1.35197
+Ashanti,Ejura Sekyeredumasi,Ejura MCH,Clinic,Ejura,Government,7.36556,-1.34358
+Ashanti,Afigya-Kwabre,Ejuratia Health Centre,Health Centre,Ejuratia,Government,6.82287,-1.52227
+Ashanti,Obuasi Municipal,Emmanuel  Maternity  Home,Maternity Home,Boete,Private,6.19235,-1.64475
+Ashanti,Ejura Sekyeredumasi,Enso Nyameye Maternity Home,Maternity Home,Kontokori Line,Private,7.37894,-1.35796
+Ashanti,Ahafo-Ano South,Essienkyem Health Centre,Health Centre,Essienkyem,Government,6.97584,-1.84784
+Ashanti,Atwima-Nwabiagya,Everest Hospital,Hospital,Achiase,Private,7,-2
+Ashanti,Atwima-Kwanwoma,Eye Adom Maternity Home,Maternity Home,Brofoyeduru,Private,6.61458,-1.65857
+Ashanti,Afigya-Kwabre,Family Care Hospital,Hospital,Mowre,Private,6.81614,-1.47675
+Ashanti,Kwabre,Fawade Nkanta Clinic,Clinic,Fawade,Private,6.81047,-1.63866
+Ashanti,Atwima-Kwanwoma,Foase Health Centre,Health Centre,Foase,Government,6.63751,-1.75124
+Ashanti,Adansi North,Fomena Health Centre,Health Centre,Fomena,Government,6.28022,-1.51002
+Ashanti,Adansi North,Fumso Health Centre,Health Centre,Fumso,Government,6.11048,-1.44854
+Ashanti,Adansi North,Fumso-Ketewa Health Centre,Health Centre,Fumso Ketewa,Government,6.29675,-1.63103
+Ashanti,Afigya-Kwabre,Gladys Maternity Home,Maternity Home,Kodie,Private,6.78875,-1.56109
+Ashanti,Ejisu-Juaben Municipal,Global Evangelical Mission Hospital,Hospital,Apromase,CHAG,6.66903,-1.49298
+Ashanti,Atwima-Nwabiagya,God is Able Maternity Home,Maternity Home,Sepase,Private,7,-2
+Ashanti,Ejisu-Juaben Municipal,Grace Maternity Home and Clinic,Maternity Home,Akyawkrom,Private,6.73257,-1.46146
+Ashanti,Bosome Freho,Gyasikrom Health Centre,Clinic,Gyasikrom,Government,6.40145,-1.47313
+Ashanti,Atwima-Mponua,Gyreso RCH,RCH,Gyeresu,Government,6.47006,-2.41673
+Ashanti,Ejura Sekyeredumasi,Homako Community Clinic,Clinic,Homako,Government,7.42915,-1.45106
+Ashanti,Ejisu-Juaben Municipal,Humble Maternity Home,Maternity Home,Kokobra,Private,6.71479,-1.52225
+Ashanti,Ejisu-Juaben Municipal,Huttel Health Centre,Health Centre,Boamadumase,Private,6.61582,-1.34007
+Ashanti,Adansi South,Hwidiem Community Clinic,Clinic,Hwidiem,Government,5.89432,-1.46766
+Ashanti,Obuasi Municipal,Ideal Homoepatic Clinic,Clinic,Obuasi - Stadium,Private,6.20564,-1.68425
+Ashanti,Sekyere Central,Isaaka Akura Health Centre,Health Centre,Isaaka Akura-Afram  Plains,Private,7.41542,-1.13783
+Ashanti,Afigya-Kwabre,Jalua  Maternity Home,Maternity Home,Nkukua Buoho,Private,6.81462,-1.64877
+Ashanti,Sekyere South,Jamasi Health Centre,Health Centre,Jamasi,Government,6.97753,-1.47255
+Ashanti,Sekyere Central,Jeduako Clinic,Clinic,Jeduako,Government,7.09501,-1.20917
+Ashanti,Obuasi Municipal,Jemina Maternity Home,Maternity Home,Obuasi Central,Private,6.20313,-1.66816
+Ashanti,Ejisu-Juaben Municipal,Jesus Is Lord Maternity Home,Maternity Home,Tikrom,Private,6.73865,-1.51092
+Ashanti,Kwabre,Joy Maternity Home,Maternity Home,Mamponteng,Private,6.79962,-1.64543
+Ashanti,Ejisu-Juaben Municipal,Juaben Government Hospital,District Hospital,Juaben,Government,6.81602,-1.41392
+Ashanti,Asante-Akim North Municipal,Juansa Health Centre,Health Centre,Juansa,Government,6.72336,-1.12734
+Ashanti,Asante-Akim South,Juaso District Hospital,District Hospital,Juaso,Government,6.59223,-1.12113
+Ashanti,Amansie West,Keniago CHPS,CHPS,Keniago,Government,6.37344,-2.01764
+Ashanti,Kwabre,Kenyasi Health Centre,Health Centre,Kenyasi,Government,6.78507,-1.56655
+Ashanti,Obuasi Municipal,KofiKrom Clinic,Clinic,Kofi Krom,Private,6.19624,-1.68043
+Ashanti,Mampong Municipal,Kofiase Health Centre,Health Centre,Kofiase,Government,7.14113,-1.48363
+Ashanti,Bekwai Municipal,Kokofu General Hospital,Hospital,Kokofu,Government,6.49903,-1.52254
+Ashanti,Sekyere South,Kona Health Centre,Health Centre,Kona,Government,6.86776,-1.51231
+Ashanti,Asante-Akim North Municipal,Konongo-Odumasi Government Hospital,District Hospital,Konongo,Government,6.62436,-1.21792
+Ashanti,Mampong Municipal,Krobo Health Centre,Health Centre,Krobo,Government,7.07457,-1.42352
+Ashanti,Sekyere Afram Plains,Kumawu Health Centre,Health Centre,Kumawu,Government,6.90708,-1.26803
+Ashanti,Asante-Akim South,Komeso Health Centre,Health Centre,Kumeso,Government,6.46154,-1.06901
+Ashanti,Afigya-Kwabre,Kwamang Health Centre,Health Centre,Kwamang,Government,6.89664,-1.62457
+Ashanti,Sekyere Central,Kwamang Health Centre,Health Centre,Kwamang,Government,6.98188,-1.26961
+Ashanti,Atwima-Kwanwoma,Kwanwoma Health Centre,Health Centre,Kwanwoma,Government,6.62865,-1.63524
+Ashanti,Ejisu-Juaben Municipal,Kwaso Health Centre,Health Centre,Kwaso,Government,6.62771,-1.44722
+Ashanti,Afigya-Kwabre,Kyekyewere Health Centre,Health Centre,Kyekyewere,Government,7.14538,-1.63944
+Ashanti,Asante-Akim North Municipal,Life Land Clinic,Clinic,Abosomtweagya,Private,6.62067,-1.20373
+Ashanti,Atwima-Nwabiagya,Maakro Clinic,Clinic,Maakro,Private,7,-2
+Ashanti,Ahafo-Ano North,Matang Clinic,Clinic,Matang,Private,6.99615,-2.21651
+Ashanti,Ejisu-Juaben Municipal,Madoma Maternity Clinic,Clinic,Besease,CHAG,6.72093,-1.45015
+Ashanti,Ejisu-Juaben Municipal,Mama Tina Maternity Home,Maternity Home,Kwamo,Private,6.71524,-1.50509
+Ashanti,Mampong Municipal,Mampong District Hospital,District Hospital,Mampong,Government,7.04563,-1.40219
+Ashanti,Mampong Municipal,Mampong Quality Hospital,Hospital,Mampong,Private,7.04621,-1.40195
+Ashanti,Kwabre,Mamponteng Health Centre,Health Centre,Mamponteng,Government,6.83295,-1.47695
+Ashanti,Ahafo-Ano North,Manfo Health Centre,Health Centre,Manfo,Government,6.94531,-2.23044
+Ashanti,Ahafo-Ano South,Mankranso Hospital,Hospital,Mankranso,Government,6.82076,-1.86278
+Ashanti,Amansie West,Manso Abore Health Centre,Health Centre,Manso Abore,Government,6.44627,-1.97764
+Ashanti,Amansie West,Manso Edubia Health Centre,Health Centre,Manso-Adubia,Government,6.40256,-1.92957
+Ashanti,Amansie West,Manso Nkwanta Maternity Home,Maternity Home,Manso Nkwanta,Private,6.47682,-1.87916
+Ashanti,Amansie West,Manso Tontokrom Health Centre,Health Centre,Tontokrom,Government,6.24929,-1.99483
+Ashanti,Adansi South,Mansonso Health Centre,Health Centre,Mansonso,Government,6.04547,-1.58955
+Ashanti,Amansie Central,Marben Maternity,Maternity Home,Jacobu,Private,6.35241,-1.67799
+Ashanti,Kwabre,Meduma Clinic,Clinic,Medoma,Private,6.79089,-1.56091
+Ashanti,Ejisu-Juaben Municipal,Memorial Maternity Home,Maternity Home,Okyerekrom,Private,6.72122,-1.52589
+Ashanti,Afigya-Kwabre,Methodist Faith Healing Hospital,District Hospital,Ankaase,CHAG,6.84819,-1.54934
+Ashanti,Amansie Central,Mile 14 Community Clinic,Clinic,Mile 14,Government,6.22126,-1.82139
+Ashanti,Asante-Akim South,Morso Clinic,Clinic,Morso,Government,6.65518,-1.10681
+Ashanti,Amansie West,Mother of God Clinic,Clinic,Esaase,CHAG,6.55942,-1.89046
+Ashanti,Ahafo-Ano South,Mpasaso Health Centre,Health Centre,Mpasaso,Government,6.80274,-2.13864
+Ashanti,Amansie West,Mpatuom RCH,RCH,Mpatuom,Government,6.54088,-1.93215
+Ashanti,Afigya-Kwabre,Mpobi RCH,RCH,Mpobi,Government,6.84775,-1.56165
+Ashanti,Asante-Akim South,Muranaim Health Centre,Health Centre,Muronam,Government,6.24703,-1.20566
+Ashanti,Mampong Municipal,Nadaworoma Clinic,Clinic,Mampong New Town,Private,7.06598,-1.40213
+Ashanti,Atwima-Nwabiagya,Nana Frema Maternity Home,Maternity Home,Adankwame,Private,7,-2
+Ashanti,Bekwai Municipal,Nancy Powel's Clinic,Clinic,Tebeso #2,CHAG,6.31788,-1.30804
+Ashanti,Obuasi Municipal,Neighbourhood    Clinic,Clinic,Abompe    New  Site,Private,6.21889,-1.67117
+Ashanti,Adansi North,New Ayaasi Adom Maternity Home,Health Centre,New Ayaasi,Private,6.29641,-1.52338
+Ashanti,Adansi South,New Edubiase Hospital,District Hospital,New Edubiase,Government,6.05456,-1.39281
+Ashanti,Bekwai Municipal,New Life Clinic,Clinic,Apau,CHAG,6.47284,-1.43677
+Ashanti,Amansie West,Nipankyeremia CHPS,CHPS,Nipankyeremia,Government,6.37002,-2.15827
+Ashanti,Atwima-Nwabiagya,Nkawie/Toase Hospital,Hospital,Nkawie,Government,7,-2
+Ashanti,Offinso North,Nkenkasu District Hospital,District Hospital,Nkenkasu,Government,7.31957,-1.90289
+Ashanti,Ejura Sekyeredumasi,Nkwanta Community Clinic,Clinic,Ejura Nkwanta,Government,7.51378,-1.34725
+Ashanti,Asante-Akim South,Nnadieso Health Centre,Health Centre,Nnadieso,Government,6.59956,-1.092061
+Ashanti,Ejisu-Juaben Municipal,Nobewam SDA Clinic,Clinic,Nobewam,CHAG,6.62289,-1.23985
+Ashanti,Sekyere Central,Nsutaman Health Centre,Health Centre,Nsuta,Government,7.00861,-1.38146
+Ashanti,Atwima-Mponua,Ntobroso Health Centre,Health Centre,Ntobroso,Government,6.53571,-2.04245
+Ashanti,Amansie Central,Numereso Health Centre,Health Centre,Numereso,Government,6.07568,-1.85459
+Ashanti,Asante-Akim North Municipal,Nutrition Rehabilitation Centre,Clinic,Konongo,Government,6.79529,-1.08871
+Ashanti,Atwima-Nwabiagya,Nyama Maternity Home,Maternity Home,Achiase,Private,7,-2
+Ashanti,Amansie West,Nyame Akwan Maternity,Maternity Home,Mpatoum,Private,6.54096,-1.93229
+Ashanti,Atwima-Mponua,Nyinahin Government Hospital,District Hospital,Nyinahin,Government,6.60115,-2.10999
+Ashanti,Asante-Akim South,Obogu Health Centre,Health Centre,Obogu,Government,6.51484,-1.11586
+Ashanti,Adansi South,Obonsu Clinic,Clinic,Obonsu,Government,5.95324,-1.35225
+Ashanti,Obuasi Municipal,Obuasi Government Hospital,Hospital,Obuasi,Government,6.1213,-1.4105
+Ashanti,Amansie West,Odaho RCH,RCH,Odaho,Government,6.27381,-1.96832
+Ashanti,Offinso Municipal,Offinso Health Centre,Health Centre,Offinso,Government,6.93782,-1.67504
+Ashanti,Asante-Akim South,Ofoase Health Centre,Health Centre,Ofoase,Government,6.37813,-1.26746
+Ashanti,Sekyere East,Okaikrom Health Centre,Health Centre,Okaikrom,Government,6.82612,-1.30866
+Ashanti,Sekyere Central,"Catholic Clinic, Oku",Clinic,Oku,CHAG,7.34796,-1.00318
+Ashanti,Afigya-Kwabre,Owusua Maternity Home,Maternity Home,Bronkong,Private,6.77474,-1.63906
+Ashanti,Sekyere Afram Plains,Oyoko Our Lady Maternity Home,Maternity Home,Oyoko,Private,6.86521,-1.38976
+Ashanti,Ejisu-Juaben Municipal,Paradyse Clinic,Clinic,Ejisu,Private,6.72105,-1.47262
+Ashanti,Sekyere Afram Plains,Peace and Comfort Maternity Clinic,Maternity Home,Kumawu Bodomasi,Private,6.89428,-1.25522
+Ashanti,Atwima-Nwabiagya,Peace Homeo Medical Centre,Clinic,Ntensere,Private,7,-2
+Ashanti,Ejisu-Juaben Municipal,Peminase Maternity Home,Maternity Home,Peminase,Government,6.52668,-1.31086
+Ashanti,Ahafo-Ano South,Pokukrom Health Centre,Health Centre,Pokukrom,Government,7.00378,-1.95239
+Ashanti,Asante-Akim North Municipal,Praaso Health Centre,Health Centre,Praaso,Government,6.51556,-1.26672
+Ashanti,Offinso Municipal,Quality Care Clinic,Clinic,Offinso Adikuro,Private,6.95019,-1.67263
+Ashanti,Ejisu-Juaben Municipal,Queen Victoria Maternity Home and Clinic,Maternity Home,Serwaa Akura,Private,6.72345,-1.47869
+Ashanti,Obuasi Municipal,Redemption Bible Way Clinic and Laboratory,Clinic,Rams Hill,Private,6.20121,-1.66393
+Ashanti,Amansie West,Resolute Amansie,Clinic,Manso Nkran,Quasi-Government,6.34571,-1.98979
+Ashanti,Ejisu-Juaben Municipal,Rev. Walker Medical Centre,Clinic,Kokobra,Private,6.71394,-1.52192
+Ashanti,Asante-Akim South,Rose Maternity Home,Maternity Home,Obogu,Private,6.52025,-1.12042
+Ashanti,Ahafo-Ano South,Sabronum  Health Centre,Health Centre,Sabronum,Government,7.08809,-1.89095
+Ashanti,Sekyere South,Sacred Heart Maternity Clinic,Clinic,Bepoase,CHAG,7.08676,-1.55514
+Ashanti,Atwima-Mponua,Saakrom Health Centre,Health Centre,Saakrom,Government,6.75871,-2.02993
+Ashanti,Sekyere South,Salvation Army Clinic,Hospital,Wiamoase,CHAG,7.05213,-1.52521
+Ashanti,Mampong Municipal,SDA Clinic Apaa,Clinic,Apaa,CHAG,6.97086,-1.44302
+Ashanti,Bekwai Municipal,SDA Hospital,Hospital,Dominase,CHAG,6.3104,-1.3911
+Ashanti,Ejisu-Juaben Municipal,SDA Hospital,Hospital,Onwe,CHAG,6.68001,-1.54161
+Ashanti,Sekyere South,SDA Hospital Asamang,Hospital,Asamang,CHAG,7.05322,-1.50964
+Ashanti,Sekyere South,SDA Hospital Wiamoase,Hospital,Wiamose,CHAG,6.90258,-1.43311
+Ashanti,Ejura Sekyeredumasi,Sekyedumase Health Centre,Health Centre,Sekyedumase Health Centre,Government,7.31352,-1.57912
+Ashanti,Sekyere East,Sekyere Health Centre,Health Centre,Sekyere,Government,6.92692,-1.37465
+Ashanti,Sekyere East,Sekyere Methodist Clinic,Clinic,Sekyere,CHAG,6.92646,-1.37494
+Ashanti,Sekyere East,Senchie Methodist Clinic,Clinic,Senkyi,CHAG,6.80818,-1.32507
+Ashanti,Amansie West,Shalom Clinic,Health Centre,Watreso,CHAG,6.25351,-1.91797
+Ashanti,Bekwai Municipal,Shalom Methodist Clinic,Clinic,Nsuaem #2,CHAG,6.36494,-1.36645
+Ashanti,Adansi South,Sikaman Health Centre,Health Centre,Sikaman,Government,6.11499,-1.58045
+Ashanti,Mampong Municipal,Sister Philipa Maternity Home,Maternity Home,Mampong Kokoase,Private,7.05921,-1.39703
+Ashanti,Atwima-Mponua,Sreso Tinpom Health Centre,Health Centre,Sreso Tinpom,Government,6.62201,-2.30317
+Ashanti,Sekyere East,St Luke Clinic,Clinic,Seniagya,CHAG,6.79774,-1.32026
+Ashanti,Ejisu-Juaben Municipal,St. Annes Maternity Clinic,Clinic,Donyina,CHAG,6.63994,-1.49782
+Ashanti,Ahafo-Ano South,St. Anns Maternity Home,Maternity Home,Essibey Nkwata,Private,6.84578,-1.76006
+Ashanti,Ejura Sekyeredumasi,St. Anthony Maternity Clinic,Maternity Home,Anyinasu,Government,7.22643,-1.58011
+Ashanti,Ahafo-Ano South,St. Edwards Clinic,Health Centre,Adwinyama,CHAG,6.88014,-1.87428
+Ashanti,Ahafo-Ano South,St. Johns Clinic,Health Centre,Domeabra,CHAG,6.87183,-2.05678
+Ashanti,Kwabre,St. Joseph's Clinic.,Clinic,Abira,CHAG,6.77928,-1.49126
+Ashanti,Obuasi Municipal,St. Jude Hospital  Ltd.,Hospital,Bedieso-Obuasi,Private,6.20723,-1.68137
+Ashanti,Ejura Sekyeredumasi,St. Luke Hospital Kasei,Hospital,Kasei,CHAG,7.53953,-1.34637
+Ashanti,Amansie West,St. Martin's  Hospital,Hospital,Agroyesum,CHAG,6.41337,-1.88154
+Ashanti,Amansie West,St. Martin's Catholic Clinic,Clinic,Abuoso,CHAG,6.31346,-2.10902
+Ashanti,Bekwai Municipal,St. Mary's Clinic,Clinic,Yapesa,CHAG,6.45121,-1.36836
+Ashanti,Ahafo-Ano South,St. Michael Clinic,Clinic,Dwenwoho,Private,6.85935,-1.75623
+Ashanti,Atwima-Nwabiagya,St. Micheal Maternity Home,Maternity Home,Achiase,Private,7,-2
+Ashanti,Offinso Municipal,St. Patricks Hospital,Hospital,Offinso,CHAG,6.93135,-1.68167
+Ashanti,Atwima-Mponua,St. Peters Clinic,Clinic,Ntobroso,CHAG,6.53511,-2.04218
+Ashanti,Amansie Central,St. Peters' Hospital,Hospital,Jacobu,CHAG,6.34331,-1.66669
+Ashanti,Bekwai Municipal,St. Stephen's Clinic,Clinic,Huntade,Private,6.4804,-1.4951
+Ashanti,Afigya-Kwabre,St. Theresa's Maternity Home,Maternity Home,Atimatim,Private,6.76359,-1.61093
+Ashanti,Amansie Central,St. Thomas General and Maternity Clinic,Clinic,Hia,CHAG,6.20804,-1.77649
+Ashanti,Sekyere Afram Plains,St. Vincent Clinic,Clinic,Drobonso,CHAG,7.00714,-1.12747
+Ashanti,Ahafo-Ano North,Subriso Health Centre,Health Centre,Subriso,Government,6.81613,-2.26676
+Ashanti,Ejisu-Juaben Municipal,Super Care Hospital,Hospital,Krapa-Ejisu,Private,6.72023,-1.48104
+Ashanti,Atwima-Mponua,Tano-Odumasi Health Centre,Health Centre,Tano-Odumasi,CHAG,6.49705,-2.39662
+Ashanti,Ahafo-Ano North,Tepa District Hospital,District Hospital,Tepa,Government,6.99966,-2.16102
+Ashanti,Afigya-Kwabre,Tetrem Health Centre,Health Centre,Tetrem,Government,7.03743,-1.63735
+Ashanti,Obuasi Municipal,The Queens Maternity Home,Maternity Home,New Estate-Obuasi,Private,6.20762,-1.67233
+Ashanti,Ejisu-Juaben Municipal,Tikrom Clinic,Clinic,Tikrom,Government,6.73154,-1.51337
+Ashanti,Bekwai Municipal,Tinkwamah Maternity Home,Maternity Home,Amoaful,Private,6.45139,-1.56537
+Ashanti,Atwima-Nwabiagya,Toase Clinic,Clinic,Toase,Private,7,-2
+Ashanti,Atwima-Kwanwoma,Trabuom Health Centre,Health Centre,Trabuom,Government,6.61142,-1.76252
+Ashanti,Atwima-Kwanwoma,Trede Health Centre,Health Centre,Trede,Government,6.57803,-1.66859
+Ashanti,Obuasi Municipal,Twumwaa Maternity Home,Maternity Home,Brahabebome,Private,6.19277,-1.62455
+Ashanti,Atwima-Mponua,Victory Christ Maternity Home,Maternity Home,Mpasatia,Private,6.65836,-1.84223
+Ashanti,Obuasi Municipal,Watt 250 Maternity  Home,Maternity Home,Kwabrafoso,Private,6.19917,-1.65556
+Ashanti,Sekyere Afram Plains,Westphalian Hospital Complex,Hospital,Oyoko,Private,6.86802,-1.39049
+Ashanti,Sekyere South,Wiamoase Clinic,Clinic,Wiamoase,Private,7.05264,-1.50265
+Ashanti,Adansi North,Wioso Health Centre,Health Centre,Wioso,Government,6.28179,-1.66127
+Ashanti,Ahafo-Ano South,Wioso Methodist Clinic,Clinic,Wioso,CHAG,6.95583,-2.00654
+Ashanti,Kwabre,Wonoo Health Centre,Health Centre,Sakora Wonoo,Government,6.79751,-1.50148
+Ashanti,Sekyere Afram Plains,Woraso Health Centre,Health Centre,Woraso,Government,6.87636,-1.27658
+Ashanti,Ejisu-Juaben Municipal,Yaa Asantewaa Maternity Clinic,Maternity Home,Ejisu,Private,6.72505,-1.46998
+Ashanti,Ejura Sekyeredumasi,Zambrama Community Clinic,Clinic,Zambrama,Government,7.52022,-1.42013
+Ashanti,Asante-Akim North Municipal,Agogo Nurses Training Coll,Training Institution,Agogo,Government,6.8769125,-1.020322399
+Ashanti,Offinso Municipal,Offinso Nurses/Midwifery Training School,Training Institution,Offinso,Government,6.817426,-1.3335824
+Ashanti,Adansi North,Fomena Community Health Nurses Training School,Training Institution,Fomena,Government,6.2775432,-1.637215
+Ashanti,Bekwai Municipal,Kokofu Health Assistants Training School,Training Institution,Kokofu,Government,6.44999999,-1.5833333
+Ashanti,Ahafo-Ano North,Tepa Health Assistants Training School,Training Institution,Tepa,Government,6.9584844,-2.263039299
+Ashanti,Asante-Akim South,Juaso SABS Hospital,Hospital,Juaso,Private,6.5344575,-1.09694
+Ashanti,Asante-Akim South,Pra River Apostolic Clinic,Clinic,Pra River,CHAG,6.5344575,-1.09694
+Ashanti,Atwima-Nwabiagya,Abuakwa Madonna Health Centre,Health Centre,Abuakwa,Government,6.5972124,-1.5789994
+Ashanti,Atwima-Nwabiagya,Nkawie Clinic,Clinic,Nkawie,Private,6.5972124,-1.5789994
+Ashanti,Atwima-Nwabiagya,Achiase Nyama Maternity Home,Maternity Home,Achiase,Private,6.5972124,-1.5789994
+Ashanti,Atwima-Nwabiagya,Nerebehi Health Centre,Health Centre,Nerebehi,Government,6.5972124,-1.5789994
+Ashanti,Atwima-Mponua,Anyinamso Maternity Home,Maternity Home,Anyinamso,Private,6.6588391,-2.2236667
+Ashanti,Atwima-Mponua,Mpasatia Health Centre,Health Centre,Mpasatia,Government,6.6588391,-2.2236667
+Ashanti,Atwima-Mponua,Kotokuom Health Centre,Health Centre,Kotokuom,Government,6.6588391,-2.2236667
+Ashanti,Ejura Sekyeredumasi,Anyinasu SDA Clinic,Clinic,Anyinaso,CHAG,7.3833333,-1.3666667
+Ashanti,Ahafo-Ano North,Ante Amma Maternity Home,Maternity Home,Abonsuaso,Private,6.9584844,-2.2630393
+Ashanti,Ahafo-Ano North,Adom Nyame Clinic,Clinic,Abonsuaso,Private,6.9584844,-2.2630393
+Ashanti,Ahafo-Ano North,Janet Maternity Home,Maternity Home,Anyinasuso,Private,6.9584844,-2.2630393
+Ashanti,Mampong Municipal,Mampong Municipal Health Directorate,Municipal Health Directorate,Mampong,Government,6.9584844,-2.2630393
+Ashanti,Mampong Municipal,Mampong Midwifery Training School,Training Institution,Mampong,Government,7.02345,-1.23598
+Ashanti,Mampong Municipal,Mampong Health Assistants Training School,Training Institution,Mampong,Government,7.02321,-0.23593
+Ashanti,Mampong Municipal,Mampong Government Hospital,Hospital,Mampong,Government,7.060683,-1.404434
+Ashanti,Mampong Municipal,Mampong Phillipa  Maternity Home,Clinic,Mampong,Private,7.060683,-1.404434
+Ashanti,Mampong Municipal,Mampong Nadaworoma Maternity Home,Clinic,Mampong,Private,7.060683,-1.404434
+Ashanti,Mampong Municipal,Adidwan Health Centre,Health Centre,Adidwan,Government,7.15067,-0.24102
+Ashanti,Mampong Municipal,Mampong Quality Hospital,Hospital,Mampong,Private,7.15067,-0.24102
+Ashanti,Mampong Municipal,Apaa Sda Clinic,Clinic,Apaa,CHAG,7.15067,-0.24102
+Ashanti,Kwabre,Asonomaso Government Hospital,District Hospital,Asonamaso,Government,6.80162,-1.51374
+Ashanti,Afigya-Kwabre,Atimatim osei Yeboah Clinic,Clinic,Atimatim,Private,7.0469952,-1.637215
+Ashanti,Kwabre,Ahwiaa Maame Rose Maternity,Clinic,Ahwiaa,Private,6.75832,-1.56736
+Ashanti,Kwabre,Adanwomase Eye Awurade Maternity Home,Clinic,Adanwomase,Private,6.79153,-1.4955
+Ashanti,Adansi South,Wamase Health Centre,Health Centre,Wamase,Government,6.1507611,-1.443469
+Ashanti,Adansi South,Wuriyie Clinic,Clinic,Wuriyie,Private,6.1507611,-1.443469
+Ashanti,Ahafo-Ano South,Biemso Health Centre,Health Centre,Biemso,Government,6.1507611,-1.443469
+Ashanti,Ahafo-Ano South,Wioso Health Centre,Health Centre,Wioso,Government,6.1507611,-1.443469
+Ashanti,Ahafo-Ano South,Anitemfe Health Centre,Health Centre,Anitemfe,Government,6.1507611,-1.443469
+Ashanti,Ahafo-Ano South,Asuadei Eno Mary Maternity Home,Clinic,Asuadei,Private,6.1507611,-1.443469
+Ashanti,Sekyere East,Asokore Ahmadyya Muslem Hospital,Hospital,Asokore,Islamic,7.1782817,-0.8294002
+Ashanti,Amansie Central,Tweapease Clinic,Clinic,Tweapease,Government,6.2767655,-1.8708613
+Ashanti,Amansie Central,Fenaso Chps,Clinic,Fenaso,Government,6.2767655,-1.8708613
+Ashanti,Bosome Freho,Dunkura  Health  Centre,Health Centre,Dunkura,Government,,
+Ashanti,Bosome Freho,Yapesa St.Mary Clinic,Clinic,Yapesa,CHAG,,
+Ashanti,Obuasi Municipal,Obuasi Municipal Health Directorate,Municipal Health Directorate,Obuasi,Government,6.0228947,-1.714958
+Ashanti,Amansie West,Esaase Bontefufuo Mother Of God Clinic,Clinic,Esaase Bontefufuo,Private,6.4466432,-1.949021
+Ashanti,Amansie West,Manso Nkran Amansie Resources Clinic,Clinic,Manso  Nkran,Quasi-Government,6.4466432,-1.949021
+Ashanti,Amansie West,Aborso Clinic,Clinic,Aborso,Private,6.4466432,-1.949021
+Ashanti,Amansie West,Watreso Methodist Shalom Clinic,Clinic,Watreso,CHAG,6.4466432,-1.949021
+Ashanti,Amansie West,Ankam Community Clinic,Clinic,Ankam,Government,6.4466432,-1.949021
+Ashanti,Amansie West,Mpraniase Chps,CHPS,Mpraniase,Government,6.4466432,-1.949021
+Ashanti,Amansie West,Manso Nkran Chps,CHPS,Manso Nranso,Government,6.4466432,-1.949021
+Ashanti,Amansie West,Aboaboso Chps,CHPS,Aboaboso,Government,6.4466432,-1.949021
+Ashanti,Amansie West,Akyekyerekrom Chps,CHPS,Akyekyerekrom,Government,6.4466432,-1.949021
+Ashanti,Asante-Akim North Municipal,Konongo Adom Hospital,Hospital,Konongo,Private,6.8769125,-1.0203224
+Ashanti,Asante-Akim North Municipal,Konongo Patience Clinic,Clinic,Konongo,Private,6.8769125,-1.0203224
+Ashanti,Offinso North,Nyamebekyere Cliinic,Clinic,Offinso,Private,6.597212,-1.578999
+Ashanti,Atwima-Kwanwoma,Bebu Emmanuel Methodist Clinic,Clinic,Bebu,CHAG,6.5972124,-1.5789994
+Ashanti,Atwima-Kwanwoma,Brofoyedru Eye Adom Maternity Clinic,Clinic,Brofoyedru,Private,6.5972124,-1.5789994
+Ashanti,Atwima-Kwanwoma,Nweneso Iii Health Centre,Health Centre,Nwiniso Iii,Government,6.5972124,-1.5789994
+Ashanti,Kumasi Metropolitan,4 Medical Research Station,Clinic,Barracks-Bantama,Quasi-Government,6.80813,-1.53933
+Ashanti,Kumasi Metropolitan,Abrafi Memorial Hospital,Hospital,Dichemso,Private,6.81527,-1.59589
+Ashanti,Kumasi Metropolitan,Abu Clinic,Clinic,Ahenbronum-Tafo,Private,9.77791,-1.64411
+Ashanti,Kumasi Metropolitan,Academy Clinic,Clinic,Asokore Mampong,Private,6.78837,-1.56135
+Ashanti,Kumasi Metropolitan,Adabie Hospital,Hospital,Atonsu,Private,6.75486,-1.52744
+Ashanti,Kumasi Metropolitan,Adeb-Sab Maternity Home and Clinic,Maternity Home,Magazine,Private,6.82287,-1.52227
+Ashanti,Kumasi Metropolitan,Aded-Sab Maternity Home,Maternity Home,Maakro,Private,6.84002,-1.55372
+Ashanti,Kumasi Metropolitan,Adom Nyame Clinic,Clinic,Sepe Timpon,Private,6.81614,-1.47675
+Ashanti,Kumasi Metropolitan,Adum Clinic,Clinic,Adum,Private,6.81047,-1.63866
+Ashanti,Kumasi Metropolitan,AG Timbers Clinic,Clinic,Kaase,Quasi-Government,6.78875,-1.56109
+Ashanti,Kumasi Metropolitan,Agyeman Memorial Clinic,Clinic,Adum,Private,6.81462,-1.64877
+Ashanti,Kumasi Metropolitan,Agyenkwa N'adom Clinic,Clinic,Buokrom,Private,6.79962,-1.64543
+Ashanti,Kumasi Metropolitan,Agyenkwa Nyame Clinic,Clinic,Tanoso,Private,6.78507,-1.56655
+Ashanti,Kumasi Metropolitan,Ahmadiya Hospital,Hospital,Sepe Timpon,Private,6.74246,-1.55877
+Ashanti,Kumasi Metropolitan,Ahmadiya Muslim Clinic,Clinic,Boadi,Private,6.83295,-1.47695
+Ashanti,Kumasi Metropolitan,Akyaa Memoria Hospital,Clinic,Makro,Private,6.79089,-1.56091
+Ashanti,Kumasi Metropolitan,Alpha Maternity Home,Maternity Home,Sokoban,Private,6.84819,-1.54934
+Ashanti,Kumasi Metropolitan,Amamata Memorial Maternity Home,Maternity Home,Sawaba,Private,6.84775,-1.56165
+Ashanti,Kumasi Metropolitan,Amanfrom Clinic and Laboratory,Clinic,North Zong-Manhyia,Private,6.77474,-1.63906
+Ashanti,Kumasi Metropolitan,Amoah Memorial Hospital,Hospital,Pankrono,Private,6.77928,-1.49126
+Ashanti,Kumasi Metropolitan,Ampabame Clinic,Clinic,Ampabame,Private,6.76359,-1.61093
+Ashanti,Kumasi Metropolitan,Ampomaa Memorial Maternity Home,Maternity Home,Anwomaso-High Tension,Private,6.79751,-1.50148
+Ashanti,Kumasi Metropolitan,Animah Clinic,Clinic,S-line Atonsu,Private,6.65068,-1.59757
+Ashanti,Kumasi Metropolitan,Animwaa Medical Centre,Hospital,Amena,Private,6.66518,-1.53521
+Ashanti,Kumasi Metropolitan,Anwiam Clinic,Clinic,Afful Nkwanta,Private,6.69071,-1.60138
+Ashanti,Kumasi Metropolitan,Anwomaso Health Centre,Health Centre,Anwomase,Government,6.69163,-1.52678
+Ashanti,Kumasi Metropolitan,Apatrapa Health Centre,Health Centre,Apatrapa,Government,6.70711,-1.68302
+Ashanti,Kumasi Metropolitan,Asihene's Clinic,Clinic,Krofrom,Private,6.71224,-1.61212
+Ashanti,Kumasi Metropolitan,Assalam Clinic,Clinic,Akrome,Private,6.69779,-1.59361
+Ashanti,Kumasi Metropolitan,Asuoyeboa Clinic,Clinic,Asuoyeboa,Private,6.69233,-1.66871
+Ashanti,Kumasi Metropolitan,Atasemanso Hospital,Hospital,Atasemanso,Private,6.65207,-1.63318
+Ashanti,Kumasi Metropolitan,Atsyor Hospital Complex,Hospital,Ataafoa-Pankrono,Private,6.74975,-1.61764
+Ashanti,Kumasi Metropolitan,Atwima Timbers Clinic,Clinic,Asokwa,Quasi-Government,6.66912,-1.61025
+Ashanti,Kumasi Metropolitan,Ayeduasi Health Centre,Health Centre,Ayigya,Government,6.68665,-1.57294
+Ashanti,Kumasi Metropolitan,Ayiwa Maternity Home,Maternity Home,New Suame,Private,6.71566,-1.63377
+Ashanti,Kumasi Metropolitan,Baby Pearl Maternity Home/Clinic,Maternity Home,Buokrom,Private,6.73838,-1.58911
+Ashanti,Kumasi Metropolitan,Bantama Clinic,Clinic,Bantama,Private,6.70515,-1.63551
+Ashanti,Kumasi Metropolitan,Bibiani Logging and Lumber Company Clin,Clinic,Kaase,Quasi-Government,6.66372,-1.60467
+Ashanti,Kumasi Metropolitan,Bilsons Allens Clinic,Clinic,Ahinsan,Private,6.67088,-1.58879
+Ashanti,Kumasi Metropolitan,Bimpeh Hill Clinic,Clinic,New Amakom,Private,6.68167,-1.59926
+Ashanti,Kumasi Metropolitan,Bimpeh Hill Hospital Annex,Clinic,Ashanti New Town,Private,6.70882,-1.61911
+Ashanti,Kumasi Metropolitan,Boatemaa Maternity Home,Maternity Home,Asokore Mampong,Private,6.71371,-1.56683
+Ashanti,Kumasi Metropolitan,Boatemaa Memorial Hospital,Hospital,Asawase,Private,6.70634,-1.60494
+Ashanti,Kumasi Metropolitan,Bomso Specialist Hospital,Hospital,Bomso,Private,6.68453,-1.57888
+Ashanti,Kumasi Metropolitan,Brainok Salvation Clinic,Clinic,Ash Town,Private,6.70479,-1.62295
+Ashanti,Kumasi Metropolitan,Bremang Clinic,Clinic,Bremang,Private,6.74166,-1.63088
+Ashanti,Kumasi Metropolitan,Central Male  Prisons Clinic,Clinic,Adum,Quasi-Government,6.69361,-1.62411
+Ashanti,Kumasi Metropolitan,Central Maternity Home,Maternity Home,Pankrono,Private,6.74944,-1.60418
+Ashanti,Kumasi Metropolitan,Central Maternity Home - ANNEX,Maternity Home,Tafo Zongo,Private,6.73331,-1.63381
+Ashanti,Kumasi Metropolitan,Charity Hospital,Hospital,Kropo,Private,6.71818,-1.64221
+Ashanti,Kumasi Metropolitan,Christ the King Clinic,Clinic,Ahinsan,Private,6.66257,-1.60041
+Ashanti,Kumasi Metropolitan,Church of Christ Mission,Clinic,Bomso,CHAG,6.68583,-1.57932
+Ashanti,Kumasi Metropolitan,City Hospital,Hospital,Stadium,Private,6.68016,-1.60371
+Ashanti,Kumasi Metropolitan,Clinic Ash Town Ltd.,Clinic,Ash Town,Private,6.70518,-1.61943
+Ashanti,Kumasi Metropolitan,Coca Cola Bottling Clinic,Clinic,Ahinsan,Quasi-Government,6.66511,-1.60299
+Ashanti,Kumasi Metropolitan,Cocoa Clinic,Clinic,Cocobod-Adum,Quasi-Government,6.68368,-1.61667
+Ashanti,Kumasi Metropolitan,Comfort Maternity Home,Maternity Home,Oduom,Private,6.69561,-1.54194
+Ashanti,Kumasi Metropolitan,Complementary Clinic,Clinic,Gyinase,Private,6.66235,-1.57597
+Ashanti,Kumasi Metropolitan,Cosmos Clinic,Clinic,Bremang - Azar Junction,Private,6.73039,-1.62736
+Ashanti,Kumasi Metropolitan,County Hospital,Hospital,Abrepo,Private,6.72651,-1.65796
+Ashanti,Kumasi Metropolitan,CPC Maternity and Clinic,Clinic,Amanfrom,Private,6.75543,-1.68412
+Ashanti,Kumasi Metropolitan,Dr. Brown Clinic,Clinic,Mile 3 Old Tafo,Private,6.72655,-1.61519
+Ashanti,Kumasi Metropolitan,Dr. Okyere Piese Clinic,Clinic,Dichemso,Private,6.71091,-1.60751
+Ashanti,Kumasi Metropolitan,Dr. Osei Clinic,Clinic,Akrome,Private,6.69939,-1.59017
+Ashanti,Kumasi Metropolitan,Dr. Quaye Clinic,Clinic,Asuogya,Private,6.71272,-1.64283
+Ashanti,Kumasi Metropolitan,Dunkirk Clinic,Clinic,Bompata,Private,6.69216,-1.61853
+Ashanti,Kumasi Metropolitan,Ebenezer Clinic,Clinic,Anloga,Private,6.67824,-1.59234
+Ashanti,Kumasi Metropolitan,Ebenezer Maternity Home,Maternity Home,Abrepo Junction,Private,6.70995,-1.63812
+Ashanti,Kumasi Metropolitan,Eliza Maternity Home,Maternity Home,Akwatialine,Private,6.69491,-1.60748
+Ashanti,Kumasi Metropolitan,Emahata Clinic,Clinic,Kwadaso,Private,6.69256,-1.65813
+Ashanti,Kumasi Metropolitan,Enec Dental Clinic,Clinic,Ash Town,Private,6.70338,-1.61768
+Ashanti,Kumasi Metropolitan,Faith Clinic,Clinic,Adum,Private,6.69499,-1.62411
+Ashanti,Kumasi Metropolitan,Faith Maternity Home,Maternity Home,Krofrom,Private,6.71477,-1.61574
+Ashanti,Kumasi Metropolitan,Florence Maternity Home,Maternity Home,Anloga,Private,6.68061,-1.59284
+Ashanti,Kumasi Metropolitan,Gansmen's Medical Centre,Clinic,Bremang North,Private,6.74011,-1.62549
+Ashanti,Kumasi Metropolitan,Ghana Brewery Clinic,Clinic,Ahinsan,Quasi-Government,6.66385,-1.60114
+Ashanti,Kumasi Metropolitan,Ghana Guiness Breweries Group Clinic,Clinic,Ahinsan,Quasi-Government,6.65085,-1.60757
+Ashanti,Kumasi Metropolitan,Girbrines Health Services and Clinic,Clinic,Akwatialine Zongo,Private,6.69477,-1.61418
+Ashanti,Kumasi Metropolitan,Gloria Memorial Hospital,Hospital,Akwatialine,Private,6.69488,-1.60754
+Ashanti,Kumasi Metropolitan,God First Clinic,Clinic,Zone 3 Suame,Private,6.71966,-1.62895
+Ashanti,Kumasi Metropolitan,God's Glory Maternity Clinic,Maternity Home,Kronum,Private,6.75109,-1.63885
+Ashanti,Kumasi Metropolitan,Graceland Clinic,Clinic,Bremang,Private,6.74229,-1.63593
+Ashanti,Kumasi Metropolitan,Habitat Sawmill Clinic,Clinic,Kaase,Quasi-Government,6.63872,-1.60925
+Ashanti,Kumasi Metropolitan,Happy Day Maternity Home,Maternity Home,Kronum,Private,6.75545,-1.64439
+Ashanti,Kumasi Metropolitan,Hebrona Hospital,Hospital,Abrepo Junction,Private,6.71107,-1.63417
+Ashanti,Kumasi Metropolitan,Histolic Adventist Clinic,Clinic,Maakro,CHAG,6.73243,-1.63484
+Ashanti,Kumasi Metropolitan,Holy Rosary Maternity Home,Maternity Home,Old Tafo,Private,6.73081,-1.61914
+Ashanti,Kumasi Metropolitan,Humble Maternity Home - Annex,Maternity Home,Pankrono Estate,Private,6.74132,-1.60525
+Ashanti,Kumasi Metropolitan,Islamic Homoepatic Clinic,Clinic,Pankrono Estate,Private,6.74326,-1.60367
+Ashanti,Kumasi Metropolitan,JCM Company Clinic,Clinic,Asokwa,Quasi-Government,6.66571,-1.60766
+Ashanti,Kumasi Metropolitan,Joy Maternity Home Clinic,Clinic,Maakro,Private,6.72375,-1.63436
+Ashanti,Kumasi Metropolitan,Kaase Maternity Home,Maternity Home,Kaase,Private,6.65464,-1.60718
+Ashanti,Kumasi Metropolitan,Kama Clinic,Clinic,Ash Town,Private,6.69851,-1.62143
+Ashanti,Kumasi Metropolitan,Keffam Hospital,Hospital,Buokrom Estate,Private,6.73951,-1.59561
+Ashanti,Kumasi Metropolitan,Kezia Maternity Home and Clinic,Maternity Home,Buokrom,Private,6.72244,-1.59061
+Ashanti,Kumasi Metropolitan,KMA Clinic,Clinic,Adum,Government,6.68488,-1.62353
+Ashanti,Kumasi Metropolitan,KNUST Hospital,Hospital,Ayigya,Quasi-Government,6.68409,-1.57378
+Ashanti,Kumasi Metropolitan,Komfo Anokye Teaching Hospital,Teaching Hospital,Bantama,Government,6.69715,-1.63015
+Ashanti,Kumasi Metropolitan,Kufour Clinic,Clinic,Adum,Private,6.69507,-1.62213
+Ashanti,Kumasi Metropolitan,Kumasi Female Prisons Clinic,Clinic,Adum,CHAG,6.69393,-1.62343
+Ashanti,Kumasi Metropolitan,Kumasi Medical Centre,Clinic,Mbrom Dichemso,Private,6.70454,-1.62448
+Ashanti,Kumasi Metropolitan,Kumasi Medical Centre ANNEX,Clinic,Bremang,Private,6.73926,-1.63626
+Ashanti,Kumasi Metropolitan,Kumasi South Government Hospital,Regional Hospital,Atonsu-Agogo,Government,6.65252,-1.58471
+Ashanti,Kumasi Metropolitan,Kwesamkof New Tafo Clinic,Clinic,New Tafo,Private,6.71623,-1.61588
+Ashanti,Kumasi Metropolitan,Kyei Memorial Hospital,Hospital,Akwatialine,Private,6.69529,-1.61002
+Ashanti,Kumasi Metropolitan,Lake Road Clinic,Clinic,Atonsu,Private,6.66001,-1.59311
+Ashanti,Kumasi Metropolitan,Levenuel Clinic,Clinic,Nkontwima-Bremang,Private,6.73766,-1.62888
+Ashanti,Kumasi Metropolitan,Logs Logging and Lumber Clinic,Clinic,Asokwa,Quasi-Government,6.67284,-1.60822
+Ashanti,Kumasi Metropolitan,Maame Serwa Maternity Home,Maternity Home,Atonsu-Bokro,Private,6.64408,-1.59206
+Ashanti,Kumasi Metropolitan,Maggie's Maternity Home,Maternity Home,Atafoa - Pankrono,Private,6.75131,-1.61758
+Ashanti,Kumasi Metropolitan,Majero Maternity Home and Clinic,Maternity Home,Ampabame,Private,6.71839,-1.65101
+Ashanti,Kumasi Metropolitan,Mammie Maternity Home,Maternity Home,Buokrom Estate,Private,6.74306,-1.59227
+Ashanti,Kumasi Metropolitan,Manhyia Government Hospital,Hospital,Manhyia,Government,6.70396,-1.61191
+Ashanti,Kumasi Metropolitan,Manukure Clinic,Clinic,Bomso,Private,6.68694,-1.57753
+Ashanti,Kumasi Metropolitan,Maranatha Maternity Clinic,Clinic,Asuoyeboa,Private,6.69616,-1.66151
+Ashanti,Kumasi Metropolitan,Mary's Maternity Home,Maternity Home,New Asokwa,Private,6.67783,-1.60169
+Ashanti,Kumasi Metropolitan,Maternal and Child Health Hospital,Hospital,Adum,Government,6.69316,-1.62531
+Ashanti,Kumasi Metropolitan,Matty Memorial Clinic,Clinic,Moshie Zongo,Private,6.72467,-1.60115
+Ashanti,Kumasi Metropolitan,Mavelil Homoe Mission,Clinic,New Suame,Private,6.73165,-1.63384
+Ashanti,Kumasi Metropolitan,Mbrom Hospital,Hospital,Mbrom Dichemso,Private,6.70534,-1.62392
+Ashanti,Kumasi Metropolitan,Medical Center - ANNEX,Clinic,Osborn Junction - Suame,Private,6.73242,-1.62981
+Ashanti,Kumasi Metropolitan,Mintah Afari Maternity Home,Maternity Home,Bompata,Private,6.69429,-1.61605
+Ashanti,Kumasi Metropolitan,Mintah Clinic,Clinic,UGC - Bremang,Private,6.75026,-1.63139
+Ashanti,Kumasi Metropolitan,Moshie Zongo Clinic,Clinic,Moshie Zongo,Private,6.72752,-1.60452
+Ashanti,Kumasi Metropolitan,Naka and St. Ama Hospital,Hospital,Buokrom,Private,6.72976,-1.58603
+Ashanti,Kumasi Metropolitan,New Era Clinic,Clinic,Ayigya,Private,6.68902,-1.57398
+Ashanti,Kumasi Metropolitan,New Era Millennium Hospital,Hospital,Bokro-Atonsu,Private,6.64842,-1.59076
+Ashanti,Kumasi Metropolitan,New Life Maternity  Home and Clinic,Maternity Home,Zongo-Ayigya,Private,6.69232,-1.57003
+Ashanti,Kumasi Metropolitan,New Life Maternity and Clinic,Maternity Home,Anwomase-Bebre,Private,6.69702,-1.53315
+Ashanti,Kumasi Metropolitan,New Tafo Clinic,Clinic,Tafo Nhyiaso,Private,6.71836,-1.61191
+Ashanti,Kumasi Metropolitan,New Town Hospital,Hospital,Ashanti Town,Private,6.69967,-1.61925
+Ashanti,Kumasi Metropolitan,Nkontwima Clinic,Clinic,Nkontwima-Bremang,Private,6.73251,-1.62602
+Ashanti,Kumasi Metropolitan,Nyame ye Maternity Home,Maternity Home,Asawase,Private,6.70131,-1.60595
+Ashanti,Kumasi Metropolitan,Oforikrom Clinic,Clinic,Oforikrom,Private,6.68986,-1.59339
+Ashanti,Kumasi Metropolitan,Omega Sawmill Clinic,Clinic,Kaase,Quasi-Government,6.65812,-1.60441
+Ashanti,Kumasi Metropolitan,Our Lady Maternity Home,Maternity Home,Bokro-Atonsu,Private,6.64775,-1.59059
+Ashanti,Kumasi Metropolitan,Owusuwa Memorial Maternity Maternity,Maternity Home,Adukrom,Private,6.70437,-1.58533
+Ashanti,Kumasi Metropolitan,Owusuaa Maternity Home,Maternity Home,Aboabo,Private,6.69977,-1.59931
+Ashanti,Kumasi Metropolitan,Paradise Maternity and Clinic,Maternity Home,Ayigya,Private,6.68739,-1.57368
+Ashanti,Kumasi Metropolitan,Paul Sagoe Sawmill Clinic,Clinic,Asokwa,Quasi-Government,6.66754,-1.60755
+Ashanti,Kumasi Metropolitan,Peace and Love Hospital,Hospital,Oduom,Private,6.69904,-1.54041
+Ashanti,Kumasi Metropolitan,Peace Land Clinic,Clinic,South Suntreso,Private,6.69002,-1.64039
+Ashanti,Kumasi Metropolitan,Pima Clinic,Clinic,Buokrom Estate,Private,6.74661,-1.59242
+Ashanti,Kumasi Metropolitan,Poku Transport Hospital,Hospital,Asokwa,Private,6.67289,-1.60181
+Ashanti,Kumasi Metropolitan,Police Clinic,Clinic,Adum,Quasi-Government,6.69402,-1.62702
+Ashanti,Kumasi Metropolitan,PPAG Clinic,Clinic,New Suame,Private,6.71789,-1.63674
+Ashanti,Kumasi Metropolitan,PPAG Teen's Centre,Clinic,Oforikrom,Private,6.68805,-1.59241
+Ashanti,Kumasi Metropolitan,Prince of Peace Clinic,Clinic,Aboabo,Private,6.69915,-1.60002
+Ashanti,Kumasi Metropolitan,Quality Health Care Ltd.,Hospital,Kentinkrono,Private,6.69654,-1.55216
+Ashanti,Kumasi Metropolitan,Queen of Peace Maternity Home,Maternity Home,Adoato,Private,6.70981,-1.64148
+Ashanti,Kumasi Metropolitan,Queen Victory Maternity Home,Maternity Home,Anloga,Private,6.67908,-1.59208
+Ashanti,Kumasi Metropolitan,Queens Hospital,Hospital,Dompoase,Private,6.63657,-1.58818
+Ashanti,Kumasi Metropolitan,Rabito Clinic,Clinic,Adum,Private,6.69298,-1.62267
+Ashanti,Kumasi Metropolitan,Railway Clinic,Clinic,Railways Adum,Quasi-Government,6.69196,-1.61926
+Ashanti,Kumasi Metropolitan,Rophi Hospital,Hospital,Old Tafo,Private,6.73026,-1.61204
+Ashanti,Kumasi Metropolitan,Rophii Hospital,Clinic,Akwatialine,Private,6.69504,-1.61193
+Ashanti,Kumasi Metropolitan,Rucky Memorial Maternity Clinic,Maternity Home,Sawaba,Private,6.70227,-1.58091
+Ashanti,Kumasi Metropolitan,Russia Clinic,Clinic,Moshie Zongo,Private,6.72609,-1.60633
+Ashanti,Kumasi Metropolitan,Safo Adu Hosptal,Hospital,Manhyia,Private,6.70301,-1.61371
+Ashanti,Kumasi Metropolitan,Sedom Clinic,Clinic,Bantama,Private,6.70286,-1.63373
+Ashanti,Kumasi Metropolitan,Sepe Dote Clinic,Clinic,Sepe Dote,Private,6.71914,-1.57917
+Ashanti,Kumasi Metropolitan,Sepe-Buokrom Community Clinic,Clinic,Buokrom,Government,6.72118,-1.59593
+Ashanti,Kumasi Metropolitan,Shalom Maternity Home,Maternity Home,Pankrono,Private,6.75172,-1.60518
+Ashanti,Kumasi Metropolitan,Siaw Larbi Hospital,Hospital,Mile 4 - Tafo,Private,6.74196,-1.61304
+Ashanti,Kumasi Metropolitan,Siloam Hospital,Hospital,Kwadaso,Private,6.70008,-1.66115
+Ashanti,Kumasi Metropolitan,Sir Gibrine Memorial Clinic,Clinic,Asawase,Private,6.70138,-1.60467
+Ashanti,Kumasi Metropolitan,Sir Gibrinnes Clinic,Clinic,Akrome,Private,6.70798,-1.57989
+Ashanti,Kumasi Metropolitan,Sir Gilbrenes Memorial Health Centre,Clinic,Sepe-Tinpom,Private,6.70798,-1.57989
+Ashanti,Kumasi Metropolitan,SOS Home Clinic,Clinic,New Suame,Private,6.71352,-1.63055
+Ashanti,Kumasi Metropolitan,St. Annes Clinic,Clinic,Atonsu,Private,6.64886,-1.59209
+Ashanti,Kumasi Metropolitan,St. Anthony Hospital,Hospital,Asuogya,Private,6.72642,-1.64531
+Ashanti,Kumasi Metropolitan,St. Edward Clinic,Clinic,Amakom,Private,6.68972,-1.61009
+Ashanti,Kumasi Metropolitan,St. Helena Maternity Home,Maternity Home,Anwiam,Private,6.69352,-1.54722
+Ashanti,Kumasi Metropolitan,St. John's Clinic,Clinic,Old Tafo,Private,6.72912,-1.61643
+Ashanti,Kumasi Metropolitan,St. Joseph Clinic,Clinic,Krofrom,Private,6.71571,-1.61472
+Ashanti,Kumasi Metropolitan,St. Marku's Hospital,Hospital,Asokwa,Private,6.67022,-1.60013
+Ashanti,Kumasi Metropolitan,St. Paul's Clinic,Clinic,Tafo Zongo,Private,6.73484,-1.60967
+Ashanti,Kumasi Metropolitan,Stadium Clinic,Clinic,Amakom,Private,6.63487,-1.60536
+Ashanti,Kumasi Metropolitan,Suame Hospital,Clinic,Old Tafo,Private,6.73402,-1.61316
+Ashanti,Kumasi Metropolitan,Sunkwa Clinic,Clinic,Anloga,Private,6.67802,-1.59245
+Ashanti,Kumasi Metropolitan,Suntreso Government Hospital,Hospital,Suntreso,Government,6.70243,-1.64223
+Ashanti,Kumasi Metropolitan,Tafo Government Hospital,Hospital,Tafo,Government,6.72554,-1.61317
+Ashanti,Kumasi Metropolitan,Tafo Nhyiaeso Homeopatic Clinic,Clinic,Tafo Nhyiaeso,Private,6.71852,-1.61175
+Ashanti,Kumasi Metropolitan,The Word Maternity Home,Maternity Home,Mile 4- Old Tafo,Private,6.73629,-1.61189
+Ashanti,Kumasi Metropolitan,Tinkwama Maternity Home,Maternity Home,Asuogya,Private,6.72516,-1.64419
+Ashanti,Kumasi Metropolitan,Trust Care Specialist Hospital,Hospital,South Suntreso,Private,6.69042,-1.63979
+Ashanti,Kumasi Metropolitan,Turkson Memorial Maternity Home,Maternity Home,Old Suame,Private,6.71613,-1.62977
+Ashanti,Kumasi Metropolitan,Twumasi Memorial Hospital,Hospital,Asokwa,Private,6.67157,-1.60489
+Ashanti,Kumasi Metropolitan,VAG Clinic,Clinic,Manhyia,Private,6.70121,-1.61249
+Ashanti,Kumasi Metropolitan,Vibro Maternity Home and Clinic,Maternity Home,Anwomase-Bebre,Private,6.69609,-1.53127
+Ashanti,Kumasi Metropolitan,Victory Clinic and Maternity Home,Maternity Home,Ayigya,Private,6.68806,-1.57589
+Ashanti,Kumasi Metropolitan,Vincent Clinic,Clinic,Abed-Pankrono,Private,6.75315,-1.61293
+Ashanti,Kumasi Metropolitan,Washie Hospital,Hospital,Ahodwo Kumasi,Private,6.65263,-1.61921
+Ashanti,Kumasi Metropolitan,Washington Clinic,Clinic,Old Tafo,Private,6.72868,-1.61237
+Ashanti,Kumasi Metropolitan,Wesley Cathederal Clinic,Clinic,Adum,CHAG,6.69362,-1.62325
+Ashanti,Kumasi Metropolitan,Wilben Dental Clinic,Hospital,Dr. Mensah - Ash Town,Private,6.70013,-1.61951
+Ashanti,Kumasi Metropolitan,Wisdom Hospital,Hospital,Dichemso,Private,6.70875,-1.61056
+Ashanti,Kumasi Metropolitan,Yeji Medical Clinic,Clinic,Bremang,Private,6.74085,-1.64022
+Ashanti,Kumasi Metropolitan,Yentumi Boitey Memorial Clinic,Clinic,Susanso,Private,6.68684,-1.58501
+Ashanti,Kumasi Metropolitan,Zion Hill Clinic,Clinic,Zone 5 - Suame,Private,6.72267,-1.63107
+Ashanti,Kumasi Metropolitan,Zongo Hill Clinic,Clinic,Manhyia Zongo,Private,6.70043,-1.61371
+Ashanti,Kumasi Metropolitan,Kumasi Nurses/Midwifery Training School,Training Institution,Kumasi,Government,6.4148,-1.37507
+Ashanti,Kumasi Metropolitan,Kwadaso Nurses Training College,Training Institution,Kwadaso,Government,6.4148,-1.37507
+Ashanti,Kumasi Metropolitan,Kumasi Ear Nose & Throat,Training Institution,Kumasi,Government,6.4148,-1.37507
+Ashanti,Kumasi Metropolitan,Kumasi Anasthesia,Training Institution,Kumasi,Government,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Premier Nursing School (General Nursing),Training Institution,Kumasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Asawasi Boakye Dunkwa Hospital,Hospital,Asawasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Effah Hospital,Hospital,Buokrom Estate,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Moshie Zongo Russia Clinic,Clinic,Moshie Zongo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Ashanti Town Clinic,Clinic,Ashanti Town,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Asawasi Nyame Ye Maternity Home,Maternity Home,Asawasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Allen Hospital,Hospital,Dichemso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Ghana Legion Clinic,Clinic,New Zongo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,New Asawasi Clinic,Clinic,Asawasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Bomso Clinic,Clinic,Bomso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Muslim Homeopathic Clinic,Clinic,Boadi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Allen's Clinic,Clinic,Ahensan,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Ayigya Clinic,Clinic,Ayigya,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Born Again Homeopathic,Clinic,Adukrom,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Homeopathic Clinic,Clinic,Nsene,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Maud Maternity Home,Maternity Home,Ahensan,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Amansie Enterprise Clinic,Clinic,,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,John Bitar Company Clinic,Clinic,Ahensan,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Bosomtwi Clinic,Clinic,Aboabo Akorem,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Atonsu-Agogo Clinic,Clinic,Anloga,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Abrepo County Hospital,Hospital,Abrepo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,West End Clinic,Clinic,Patasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,SDA Hospital,Hospital,Kwadaso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Prempeh College Clinic,Clinic,Prempeh Compus,Government,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Patasi Suame Nkwanta Hospital,Hospital,Patasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Asafo Agyei Hospital,Hospital,Daaban,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Magazine Clinic,Clinic,Danyame,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Togbe Clinic,Clinic,Adiembra,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Mary Pomaa Memorial Clinic,Clinic,Odeneho Kwadaso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Robert Khock Health Services,Clinic,Bantama,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Adiebeba Hospital,Hospital,Adiebeba,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Ahodwo Clinic,Clinic,Ahodwo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Ahodwo Washie Hospital,Hospital,Ahodwo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Philip Maternity Home,Maternity Home,Tanoso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Hebrona Hospital,Hospital,Sokoban,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Agyei Eli Hospital,Hospital,Sokoban,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Aurora Clinic,Clinic,Dakodwom,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,St. Anthony Homeopathic Clinic,Clinic,Bohyen,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,St. Monica Maternity Hme,Maternity Home,Ampabame,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Amanfrom Clinic,Clinic,Amanfrom,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Santasi Clinic,Clinic,Santasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Boampong Hospital,Hospital,Santasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Asadu Maternity Home,Maternity Home,Sokoban,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Living Waters Maternity Home,Maternity Home,Odeneho Kwadaso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Yonkodo Maternity Home,Maternity Home,South Suntreso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,UEWK Sick Bay,Clinic,Tanoso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Restoration Clinic,Clinic,,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Calvary Maternity Home,Maternity Home,Nwamasi,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Divine Maternity Home,Maternity Home,Kwadaso Estate,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Kpodo Maternity Home,Maternity Home,Kpodo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Tiwaa Acupuncture,Clinic,Ohwimase,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Tafo Nhyiaeso Bethel Clinic,Clinic,Tafo Nhyiaeso,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,St. John's Clinic,Clinic,Manhyia Extension,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,New Birth Maternity Home,Maternity Home,Old Tafo,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Neuro-Psych Hospital,Hospital,Pankrono,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Prisons Clinic,Clinic,Adum,Quasi-Government,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Amakom Clinic,Clinic,Amakom,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Methodist Cathederal Church Clinic,Clinic,Adum,CHAG,6.415,-1.37548
+Ashanti,Sekyere Afram Plains,Jesus Care Voluntary Clinic,Clinic,Besoro,CHAG,7.5090674,-0.8234483
+Ashanti,Sekyere Afram Plains,Asesewa CHPS,CHPS,Anyinofi,Government,7.5090674,-0.8234483
+Ashanti,Sekyere Afram Plains,Dawia CHPS,CHPS,Dawia,Government,7.5090674,-0.8234483
+Ashanti,Sekyere Afram Plains,Funsua CHPS,CHPS,Fusua,Government,7.5090674,-0.8234483
+Ashanti,Sekyere Afram Plains,Hamidu CHPS,CHPS,Fusua,Government,7.5090674,-0.8234483
+Ashanti,Bekwai Municipal,Boni Clinic,Clinic,Boni,Government,6.45,-1.5833333
+Ashanti,Sekyere Central,Birem Health Centre,Health Centre,Birem,Government,7.2169497,-2.1843285
+Ashanti,Mampong Municipal,Calvary Health Service,Clinic,,Private,7.03397,-1.24294
+Ashanti,Mampong Municipal,Yonso CHPS,CPHS,Yonso,Government,7.03397,-1.24294
+Ashanti,Kwabre,Kwabre District Health Directorate,District Health Directorate,Mamponteng,Government,6.77884,-1.54569
+Ashanti,Kwabre,Antoa Health Centre,Health Centre,Antoa,Government,6.75748,-1.52574
+Ashanti,Kwabre,African Diaspora Clinic & Maternity Home,Clinic,Abirem,Private,6.75053,-1.54224
+Ashanti,Afigya-Kwabre,Brofoyedru Health Centre,Health Centre,Brofoyedru,Government,6.47265,-1.37389
+Ashanti,Afigya-Kwabre,PACKS Hospital,Hospital,Afrancho,Private,6.47265,-1.37389
+Ashanti,Afigya-Kwabre,Hilltop Hospital,Hospital,Buoho,Private,6.47265,-1.37389
+Ashanti,Offinso Municipal,Offinso District Health Directorate,District Health Directorate,,Government,6.56309,-1.40268
+Ashanti,Offinso Municipal,Anyinasuso SDA Clinc,Clinic,Anyinasuso,CHAG,7.0102,-1.42346
+Ashanti,Offinso Municipal,Abofour Health Centre,Health Centre,Abofour,Government,7.07473,-1.43587
+Ashanti,Offinso Municipal,Amoawi Community Clinic,Clinic,Amoawi,Private,6.57199,-1.41169
+Ashanti,Offinso Municipal,Kwagyekrom CHPS,CHPS,Kokoben,Government,7.02111,-1.46379
